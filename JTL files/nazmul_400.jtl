@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1707037482832,1174,login,200,OK,Thread Group 1-59,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1166,0,873
+1707037482455,1555,login,200,OK,Thread Group 1-52,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1555,0,1255
+1707037482129,1882,login,200,OK,Thread Group 1-39,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1882,0,1582
+1707037482004,2007,login,200,OK,Thread Group 1-34,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2007,0,1705
+1707037481350,2662,login,200,OK,Thread Group 1-3,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2662,0,2358
+1707037481655,2358,login,200,OK,Thread Group 1-20,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2358,0,2053
+1707037482380,1633,login,200,OK,Thread Group 1-49,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1633,0,1327
+1707037482330,1683,login,200,OK,Thread Group 1-47,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1683,0,1382
+1707037482355,1658,login,200,OK,Thread Group 1-48,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1658,0,1360
+1707037481604,2410,login,200,OK,Thread Group 1-18,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2410,0,2107
+1707037482531,1483,login,200,OK,Thread Group 1-55,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1483,0,1181
+1707037481630,2385,login,200,OK,Thread Group 1-19,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2385,0,2082
+1707037481480,2536,login,200,OK,Thread Group 1-13,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2536,0,2238
+1707037481350,2667,login,200,OK,Thread Group 1-7,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2667,0,2368
+1707037482837,1180,login,200,OK,Thread Group 1-60,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1180,0,877
+1707037481356,2662,login,200,OK,Thread Group 1-8,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2662,0,2357
+1707037481679,2339,login,200,OK,Thread Group 1-21,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2339,0,2040
+1707037482481,1538,login,200,OK,Thread Group 1-53,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1538,0,1232
+1707037481754,2265,login,200,OK,Thread Group 1-24,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2265,0,1964
+1707037481506,2514,login,200,OK,Thread Group 1-14,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2514,0,2211
+1707037481956,2064,login,200,OK,Thread Group 1-32,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2064,0,1764
+1707037481381,2639,login,200,OK,Thread Group 1-9,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2639,0,2335
+1707037482430,1591,login,200,OK,Thread Group 1-51,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1591,0,1285
+1707037481350,2671,login,200,OK,Thread Group 1-4,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2671,0,2366
+1707037482029,1992,login,200,OK,Thread Group 1-35,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1992,0,1690
+1707037481454,2567,login,200,OK,Thread Group 1-12,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2567,0,2263
+1707037482405,1617,login,200,OK,Thread Group 1-50,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1617,0,1313
+1707037482559,1463,login,200,OK,Thread Group 1-56,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1463,0,1157
+1707037482280,1743,login,200,OK,Thread Group 1-45,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1743,0,1425
+1707037482505,1518,login,200,OK,Thread Group 1-54,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1518,0,1214
+1707037482307,1716,login,200,OK,Thread Group 1-46,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1716,0,1413
+1707037482179,1844,login,200,OK,Thread Group 1-41,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1844,0,1527
+1707037482256,1768,login,200,OK,Thread Group 1-44,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1767,0,1449
+1707037481554,2470,login,200,OK,Thread Group 1-16,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2470,0,2152
+1707037481350,2674,login,200,OK,Thread Group 1-2,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2674,0,2371
+1707037482079,1946,login,200,OK,Thread Group 1-37,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1946,0,1644
+1707037481350,2676,login,200,OK,Thread Group 1-5,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2676,0,2372
+1707037482055,1971,login,200,OK,Thread Group 1-36,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1971,0,1665
+1707037482608,1418,login,200,OK,Thread Group 1-58,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1418,0,1114
+1707037482230,1797,login,200,OK,Thread Group 1-43,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1797,0,1491
+1707037481930,2097,login,200,OK,Thread Group 1-31,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2097,0,1800
+1707037481430,2598,login,200,OK,Thread Group 1-11,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2598,0,2293
+1707037481350,2678,login,200,OK,Thread Group 1-1,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2678,0,2372
+1707037481729,2300,login,200,OK,Thread Group 1-23,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2299,0,1993
+1707037481831,2198,login,200,OK,Thread Group 1-27,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2198,0,1893
+1707037481779,2250,login,200,OK,Thread Group 1-25,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2250,0,1946
+1707037481579,2451,login,200,OK,Thread Group 1-17,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2451,0,2144
+1707037481880,2150,login,200,OK,Thread Group 1-29,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2150,0,1844
+1707037481531,2499,login,200,OK,Thread Group 1-15,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2499,0,2192
+1707037482154,1877,login,200,OK,Thread Group 1-40,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1877,0,1570
+1707037481980,2051,login,200,OK,Thread Group 1-33,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2051,0,1743
+1707037481854,2177,login,200,OK,Thread Group 1-28,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2177,0,1870
+1707037482592,1440,login,200,OK,Thread Group 1-57,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,1440,0,1133
+1707037481804,2228,login,200,OK,Thread Group 1-26,text,true,,777,254,113,113,https://restful-booker.herokuapp.com/auth,2228,0,1921
+1707037481405,2635,login,200,OK,Thread Group 1-10,text,true,,777,254,115,115,https://restful-booker.herokuapp.com/auth,2635,0,2320
+1707037481350,2690,login,200,OK,Thread Group 1-6,text,true,,777,254,115,115,https://restful-booker.herokuapp.com/auth,2690,0,2376
+1707037481704,2336,login,200,OK,Thread Group 1-22,text,true,,777,254,115,115,https://restful-booker.herokuapp.com/auth,2336,0,2021
+1707037481904,2137,login,200,OK,Thread Group 1-30,text,true,,777,254,115,115,https://restful-booker.herokuapp.com/auth,2137,0,1820
+1707037482205,1836,login,200,OK,Thread Group 1-42,text,true,,777,254,115,115,https://restful-booker.herokuapp.com/auth,1836,0,1517
+1707037482104,1937,login,200,OK,Thread Group 1-38,text,true,,777,254,115,115,https://restful-booker.herokuapp.com/auth,1937,0,1620
+1707037482842,1200,login,200,OK,Thread Group 1-61,text,true,,777,254,115,115,https://restful-booker.herokuapp.com/auth,1200,0,917
+1707037482847,1285,login,200,OK,Thread Group 1-67,text,true,,777,254,119,119,https://restful-booker.herokuapp.com/auth,1285,0,1007
+1707037482844,1300,login,200,OK,Thread Group 1-63,text,true,,777,254,119,119,https://restful-booker.herokuapp.com/auth,1300,0,1035
+1707037482904,1272,login,200,OK,Thread Group 1-70,text,true,,777,254,120,120,https://restful-booker.herokuapp.com/auth,1272,0,988
+1707037482842,1334,login,200,OK,Thread Group 1-62,text,true,,777,254,120,120,https://restful-booker.herokuapp.com/auth,1334,0,1054
+1707037482955,1222,login,200,OK,Thread Group 1-72,text,true,,777,254,120,120,https://restful-booker.herokuapp.com/auth,1222,0,937
+1707037483004,1189,login,200,OK,Thread Group 1-74,text,true,,777,254,121,121,https://restful-booker.herokuapp.com/auth,1189,0,908
+1707037482929,1264,login,200,OK,Thread Group 1-71,text,true,,777,254,121,121,https://restful-booker.herokuapp.com/auth,1264,0,995
+1707037482979,1215,login,200,OK,Thread Group 1-73,text,true,,777,254,121,121,https://restful-booker.herokuapp.com/auth,1215,0,932
+1707037483029,1165,login,200,OK,Thread Group 1-75,text,true,,777,254,121,121,https://restful-booker.herokuapp.com/auth,1165,0,882
+1707037482855,1351,login,200,OK,Thread Group 1-68,text,true,,777,254,122,122,https://restful-booker.herokuapp.com/auth,1351,0,1075
+1707037482849,1357,login,200,OK,Thread Group 1-66,text,true,,777,254,122,122,https://restful-booker.herokuapp.com/auth,1357,0,1081
+1707037482880,1327,login,200,OK,Thread Group 1-69,text,true,,777,254,122,122,https://restful-booker.herokuapp.com/auth,1327,0,1051
+1707037483055,1156,login,200,OK,Thread Group 1-76,text,true,,777,254,122,122,https://restful-booker.herokuapp.com/auth,1156,0,875
+1707037482846,1368,login,200,OK,Thread Group 1-65,text,true,,777,254,122,122,https://restful-booker.herokuapp.com/auth,1368,0,1091
+1707037483105,1131,login,200,OK,Thread Group 1-78,text,true,,777,254,123,123,https://restful-booker.herokuapp.com/auth,1131,0,866
+1707037482845,1459,login,200,OK,Thread Group 1-64,text,true,,777,254,125,125,https://restful-booker.herokuapp.com/auth,1459,0,1148
+1707037483138,1188,login,200,OK,Thread Group 1-79,text,true,,777,254,126,126,https://restful-booker.herokuapp.com/auth,1188,0,886
+1707037484012,286,CreateBooking,500,Internal Server Error,Thread Group 1-3,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,286,0,0
+1707037484032,317,CreateBooking,500,Internal Server Error,Thread Group 1-26,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,317,0,0
+1707037484016,289,CreateBooking,500,Internal Server Error,Thread Group 1-13,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,289,0,0
+1707037484020,295,CreateBooking,500,Internal Server Error,Thread Group 1-14,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,295,0,0
+1707037484030,323,CreateBooking,500,Internal Server Error,Thread Group 1-29,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,323,0,0
+1707037484030,324,CreateBooking,500,Internal Server Error,Thread Group 1-15,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,324,0,0
+1707037484011,287,CreateBooking,500,Internal Server Error,Thread Group 1-34,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,287,0,0
+1707037484021,294,CreateBooking,500,Internal Server Error,Thread Group 1-51,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,294,0,0
+1707037484031,325,CreateBooking,500,Internal Server Error,Thread Group 1-40,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,325,0,0
+1707037484013,286,CreateBooking,500,Internal Server Error,Thread Group 1-20,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,286,0,0
+1707037484030,326,CreateBooking,500,Internal Server Error,Thread Group 1-17,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,326,0,0
+1707037484031,326,CreateBooking,500,Internal Server Error,Thread Group 1-28,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,326,0,0
+1707037484013,285,CreateBooking,500,Internal Server Error,Thread Group 1-49,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,285,0,0
+1707037484026,299,CreateBooking,500,Internal Server Error,Thread Group 1-36,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,299,0,0
+1707037484014,283,CreateBooking,500,Internal Server Error,Thread Group 1-48,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,283,0,0
+1707037484032,327,CreateBooking,500,Internal Server Error,Thread Group 1-57,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,327,0,0
+1707037484010,288,CreateBooking,500,Internal Server Error,Thread Group 1-52,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,288,0,0
+1707037484029,331,CreateBooking,500,Internal Server Error,Thread Group 1-23,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,331,0,0
+1707037484009,281,CreateBooking,500,Internal Server Error,Thread Group 1-59,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037484011,286,CreateBooking,500,Internal Server Error,Thread Group 1-39,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,286,0,0
+1707037484017,296,CreateBooking,500,Internal Server Error,Thread Group 1-7,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,296,0,0
+1707037484022,294,CreateBooking,500,Internal Server Error,Thread Group 1-4,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,294,0,0
+1707037484014,290,CreateBooking,500,Internal Server Error,Thread Group 1-18,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,290,0,0
+1707037484029,333,CreateBooking,500,Internal Server Error,Thread Group 1-25,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,333,0,0
+1707037484013,291,CreateBooking,500,Internal Server Error,Thread Group 1-47,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,291,0,0
+1707037484028,301,CreateBooking,500,Internal Server Error,Thread Group 1-1,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,301,0,0
+1707037484024,300,CreateBooking,500,Internal Server Error,Thread Group 1-44,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,300,0,0
+1707037484027,336,CreateBooking,500,Internal Server Error,Thread Group 1-31,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,336,0,0
+1707037484021,304,CreateBooking,500,Internal Server Error,Thread Group 1-32,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,304,0,0
+1707037484015,284,CreateBooking,500,Internal Server Error,Thread Group 1-19,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,284,0,0
+1707037484043,322,CreateBooking,500,Internal Server Error,Thread Group 1-61,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,322,0,0
+1707037484018,288,CreateBooking,500,Internal Server Error,Thread Group 1-21,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,288,0,0
+1707037484023,300,CreateBooking,500,Internal Server Error,Thread Group 1-54,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,300,0,0
+1707037484024,290,CreateBooking,500,Internal Server Error,Thread Group 1-16,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,290,0,0
+1707037484019,295,CreateBooking,500,Internal Server Error,Thread Group 1-24,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,295,0,0
+1707037484024,290,CreateBooking,500,Internal Server Error,Thread Group 1-41,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,290,0,0
+1707037484023,292,CreateBooking,500,Internal Server Error,Thread Group 1-45,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,292,0,0
+1707037484018,296,CreateBooking,500,Internal Server Error,Thread Group 1-8,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,296,0,0
+1707037484022,294,CreateBooking,500,Internal Server Error,Thread Group 1-35,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,294,0,0
+1707037484025,299,CreateBooking,500,Internal Server Error,Thread Group 1-37,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,299,0,0
+1707037484023,301,CreateBooking,500,Internal Server Error,Thread Group 1-56,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,301,0,0
+1707037484025,299,CreateBooking,500,Internal Server Error,Thread Group 1-2,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,299,0,0
+1707037484017,306,CreateBooking,500,Internal Server Error,Thread Group 1-60,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,306,0,0
+1707037484026,299,CreateBooking,500,Internal Server Error,Thread Group 1-5,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,299,0,0
+1707037484021,304,CreateBooking,500,Internal Server Error,Thread Group 1-9,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,304,0,0
+1707037484024,301,CreateBooking,500,Internal Server Error,Thread Group 1-46,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,301,0,0
+1707037484026,298,CreateBooking,500,Internal Server Error,Thread Group 1-58,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,298,0,0
+1707037484022,303,CreateBooking,500,Internal Server Error,Thread Group 1-12,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,303,0,0
+1707037484027,299,CreateBooking,500,Internal Server Error,Thread Group 1-43,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,299,0,0
+1707037484031,313,CreateBooking,500,Internal Server Error,Thread Group 1-33,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,313,0,0
+1707037484015,290,CreateBooking,500,Internal Server Error,Thread Group 1-55,text,false,,783,424,125,125,https://restful-booker.herokuapp.com/booking,290,0,0
+1707037484019,307,CreateBooking,500,Internal Server Error,Thread Group 1-53,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,307,0,0
+1707037484040,304,CreateBooking,500,Internal Server Error,Thread Group 1-22,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,304,0,0
+1707037484041,303,CreateBooking,500,Internal Server Error,Thread Group 1-10,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,303,0,0
+1707037484041,303,CreateBooking,500,Internal Server Error,Thread Group 1-42,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,303,0,0
+1707037484041,303,CreateBooking,500,Internal Server Error,Thread Group 1-30,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,303,0,0
+1707037484029,316,CreateBooking,500,Internal Server Error,Thread Group 1-27,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,316,0,0
+1707037484040,304,CreateBooking,500,Internal Server Error,Thread Group 1-6,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,304,0,0
+1707037484042,303,CreateBooking,500,Internal Server Error,Thread Group 1-38,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,303,0,0
+1707037484028,317,CreateBooking,500,Internal Server Error,Thread Group 1-11,text,false,,783,424,127,127,https://restful-booker.herokuapp.com/booking,317,0,0
+1707037484022,302,CreateBooking,500,Internal Server Error,Thread Group 1-50,text,false,,783,424,126,126,https://restful-booker.herokuapp.com/booking,302,0,0
+1707037483317,1076,login,200,OK,Thread Group 1-83,text,true,,777,254,129,129,https://restful-booker.herokuapp.com/auth,1076,0,815
+1707037484133,260,CreateBooking,500,Internal Server Error,Thread Group 1-67,text,false,,783,424,129,129,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037484144,272,CreateBooking,500,Internal Server Error,Thread Group 1-63,text,false,,783,424,130,130,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037484176,268,CreateBooking,500,Internal Server Error,Thread Group 1-70,text,false,,783,424,131,131,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037484177,269,CreateBooking,500,Internal Server Error,Thread Group 1-72,text,false,,783,424,131,131,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037483316,1132,login,200,OK,Thread Group 1-82,text,true,,777,254,131,131,https://restful-booker.herokuapp.com/auth,1132,0,860
+1707037483315,1133,login,200,OK,Thread Group 1-86,text,true,,777,254,131,131,https://restful-booker.herokuapp.com/auth,1133,0,861
+1707037484176,272,CreateBooking,500,Internal Server Error,Thread Group 1-62,text,false,,783,424,131,131,https://restful-booker.herokuapp.com/booking,272,0,0
+1707037483334,1138,login,200,OK,Thread Group 1-87,text,true,,777,254,132,132,https://restful-booker.herokuapp.com/auth,1138,0,858
+1707037484193,280,CreateBooking,500,Internal Server Error,Thread Group 1-71,text,false,,783,424,132,132,https://restful-booker.herokuapp.com/booking,280,0,0
+1707037484194,279,CreateBooking,500,Internal Server Error,Thread Group 1-73,text,false,,783,424,132,132,https://restful-booker.herokuapp.com/booking,278,0,0
+1707037484206,268,CreateBooking,500,Internal Server Error,Thread Group 1-66,text,false,,783,424,132,132,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037484194,280,CreateBooking,500,Internal Server Error,Thread Group 1-75,text,false,,783,424,132,132,https://restful-booker.herokuapp.com/booking,280,0,0
+1707037484193,281,CreateBooking,500,Internal Server Error,Thread Group 1-74,text,false,,783,424,132,132,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037483315,1160,login,200,OK,Thread Group 1-85,text,true,,777,254,132,132,https://restful-booker.herokuapp.com/auth,1160,0,877
+1707037483316,1160,login,200,OK,Thread Group 1-81,text,true,,777,254,132,132,https://restful-booker.herokuapp.com/auth,1160,0,876
+1707037483316,1170,login,200,OK,Thread Group 1-84,text,true,,777,254,133,133,https://restful-booker.herokuapp.com/auth,1170,0,876
+1707037484206,280,CreateBooking,500,Internal Server Error,Thread Group 1-68,text,false,,783,424,133,133,https://restful-booker.herokuapp.com/booking,280,0,0
+1707037484207,279,CreateBooking,500,Internal Server Error,Thread Group 1-69,text,false,,783,424,133,133,https://restful-booker.herokuapp.com/booking,279,0,0
+1707037483079,1409,login,200,OK,Thread Group 1-77,text,true,,777,254,133,133,https://restful-booker.herokuapp.com/auth,1409,0,1126
+1707037483332,1156,login,200,OK,Thread Group 1-80,text,true,,777,254,133,133,https://restful-booker.herokuapp.com/auth,1156,0,873
+1707037484211,278,CreateBooking,500,Internal Server Error,Thread Group 1-76,text,false,,783,424,133,133,https://restful-booker.herokuapp.com/booking,278,0,0
+1707037484214,275,CreateBooking,500,Internal Server Error,Thread Group 1-65,text,false,,783,424,133,133,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037483431,1058,login,200,OK,Thread Group 1-89,text,true,,777,254,133,133,https://restful-booker.herokuapp.com/auth,1058,0,798
+1707037484236,261,CreateBooking,500,Internal Server Error,Thread Group 1-78,text,false,,783,424,133,133,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037483432,1127,login,200,OK,Thread Group 1-90,text,true,,777,254,136,136,https://restful-booker.herokuapp.com/auth,1127,0,857
+1707037483431,1128,login,200,OK,Thread Group 1-88,text,true,,777,254,136,136,https://restful-booker.herokuapp.com/auth,1128,0,859
+1707037483431,1128,login,200,OK,Thread Group 1-91,text,true,,777,254,136,136,https://restful-booker.herokuapp.com/auth,1128,0,857
+1707037484305,258,CreateBooking,500,Internal Server Error,Thread Group 1-64,text,false,,783,424,136,136,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037484327,261,CreateBooking,500,Internal Server Error,Thread Group 1-79,text,false,,791,424,137,137,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037483505,1095,login,200,OK,Thread Group 1-94,text,true,,785,254,137,137,https://restful-booker.herokuapp.com/auth,1095,0,834
+1707037484352,282,GetBooking,200,OK,Thread Group 1-13,text,true,,12553,186,139,139,https://restful-booker.herokuapp.com/booking/,282,0,0
+1707037484355,284,GetBooking,200,OK,Thread Group 1-34,text,true,,12553,186,138,138,https://restful-booker.herokuapp.com/booking/,284,0,0
+1707037484356,284,GetBooking,200,OK,Thread Group 1-51,text,true,,12553,186,137,137,https://restful-booker.herokuapp.com/booking/,284,0,0
+1707037483528,1118,login,200,OK,Thread Group 1-95,text,true,,785,254,136,136,https://restful-booker.herokuapp.com/auth,1118,0,826
+1707037484359,288,GetBooking,200,OK,Thread Group 1-48,text,true,,12553,186,136,136,https://restful-booker.herokuapp.com/booking/,288,0,0
+1707037484357,296,GetBooking,200,OK,Thread Group 1-20,text,true,,12553,186,135,135,https://restful-booker.herokuapp.com/booking/,296,0,0
+1707037484359,305,GetBooking,200,OK,Thread Group 1-36,text,true,,12553,186,135,135,https://restful-booker.herokuapp.com/booking/,305,0,0
+1707037483479,1188,login,200,OK,Thread Group 1-93,text,true,,785,254,134,134,https://restful-booker.herokuapp.com/auth,1188,0,882
+1707037484358,311,GetBooking,200,OK,Thread Group 1-49,text,true,,12553,186,134,134,https://restful-booker.herokuapp.com/booking/,311,0,0
+1707037484352,327,GetBooking,200,OK,Thread Group 1-3,text,true,,12553,186,133,133,https://restful-booker.herokuapp.com/booking/,327,0,0
+1707037484360,319,GetBooking,200,OK,Thread Group 1-52,text,true,,12553,186,133,133,https://restful-booker.herokuapp.com/booking/,319,0,0
+1707037484361,318,GetBooking,200,OK,Thread Group 1-39,text,true,,12553,186,133,133,https://restful-booker.herokuapp.com/booking/,318,0,0
+1707037484355,338,GetBooking,200,OK,Thread Group 1-15,text,true,,12553,186,131,131,https://restful-booker.herokuapp.com/booking/,338,0,0
+1707037484353,341,GetBooking,200,OK,Thread Group 1-26,text,true,,12553,186,130,130,https://restful-booker.herokuapp.com/booking/,341,0,0
+1707037483455,1244,login,200,OK,Thread Group 1-92,text,true,,785,254,129,129,https://restful-booker.herokuapp.com/auth,1244,0,906
+1707037484353,347,GetBooking,200,OK,Thread Group 1-29,text,true,,12553,186,129,129,https://restful-booker.herokuapp.com/booking/,347,0,0
+1707037484359,343,GetBooking,200,OK,Thread Group 1-57,text,true,,12553,186,128,128,https://restful-booker.herokuapp.com/booking/,343,0,0
+1707037484357,350,GetBooking,200,OK,Thread Group 1-17,text,true,,12553,186,128,128,https://restful-booker.herokuapp.com/booking/,350,0,0
+1707037484356,358,GetBooking,200,OK,Thread Group 1-40,text,true,,12553,186,127,127,https://restful-booker.herokuapp.com/booking/,358,0,0
+1707037484364,354,GetBooking,200,OK,Thread Group 1-44,text,true,,12553,186,126,126,https://restful-booker.herokuapp.com/booking/,354,0,0
+1707037484358,361,GetBooking,200,OK,Thread Group 1-28,text,true,,12553,186,125,125,https://restful-booker.herokuapp.com/booking/,361,0,0
+1707037484360,361,GetBooking,200,OK,Thread Group 1-23,text,true,,12553,186,124,124,https://restful-booker.herokuapp.com/booking/,361,0,0
+1707037483554,1184,login,200,OK,Thread Group 1-96,text,true,,785,254,124,124,https://restful-booker.herokuapp.com/auth,1184,0,829
+1707037484393,345,CreateBooking,500,Internal Server Error,Thread Group 1-83,text,false,,791,424,124,124,https://restful-booker.herokuapp.com/booking,345,0,0
+1707037484362,378,GetBooking,200,OK,Thread Group 1-4,text,true,,12553,186,124,124,https://restful-booker.herokuapp.com/booking/,378,0,0
+1707037484353,392,GetBooking,200,OK,Thread Group 1-14,text,true,,12553,186,123,123,https://restful-booker.herokuapp.com/booking/,392,0,0
+1707037483580,1166,login,200,OK,Thread Group 1-97,text,true,,785,254,122,122,https://restful-booker.herokuapp.com/auth,1166,0,835
+1707037484363,387,GetBooking,200,OK,Thread Group 1-47,text,true,,12553,186,122,122,https://restful-booker.herokuapp.com/booking/,387,0,0
+1707037484361,390,GetBooking,200,OK,Thread Group 1-59,text,true,,12553,186,121,121,https://restful-booker.herokuapp.com/booking/,390,0,0
+1707037484448,304,CreateBooking,500,Internal Server Error,Thread Group 1-82,text,false,,791,424,121,121,https://restful-booker.herokuapp.com/booking,304,0,0
+1707037483659,1094,login,200,OK,Thread Group 1-98,text,true,,785,254,120,120,https://restful-booker.herokuapp.com/auth,1094,0,808
+1707037484448,305,CreateBooking,500,Internal Server Error,Thread Group 1-86,text,false,,791,424,120,120,https://restful-booker.herokuapp.com/booking,304,0,0
+1707037484473,281,CreateBooking,500,Internal Server Error,Thread Group 1-87,text,false,,791,424,120,120,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037483662,1092,login,200,OK,Thread Group 1-99,text,true,,785,254,120,120,https://restful-booker.herokuapp.com/auth,1092,0,814
+1707037484362,394,GetBooking,200,OK,Thread Group 1-18,text,true,,12553,186,121,121,https://restful-booker.herokuapp.com/booking/,394,0,0
+1707037484362,395,GetBooking,200,OK,Thread Group 1-7,text,true,,12553,186,121,121,https://restful-booker.herokuapp.com/booking/,395,0,0
+1707037484475,283,CreateBooking,500,Internal Server Error,Thread Group 1-85,text,false,,791,424,119,119,https://restful-booker.herokuapp.com/booking,283,0,0
+1707037484476,282,CreateBooking,500,Internal Server Error,Thread Group 1-81,text,false,,791,424,119,119,https://restful-booker.herokuapp.com/booking,282,0,0
+1707037484364,396,GetBooking,200,OK,Thread Group 1-19,text,true,,12553,186,119,119,https://restful-booker.herokuapp.com/booking/,396,0,0
+1707037484490,271,CreateBooking,500,Internal Server Error,Thread Group 1-89,text,false,,791,424,118,118,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037483662,1102,login,200,OK,Thread Group 1-100,text,true,,785,254,118,118,https://restful-booker.herokuapp.com/auth,1102,0,827
+1707037484365,401,GetBooking,200,OK,Thread Group 1-54,text,true,,12553,186,118,118,https://restful-booker.herokuapp.com/booking/,401,0,0
+1707037484366,400,GetBooking,200,OK,Thread Group 1-41,text,true,,12553,186,118,118,https://restful-booker.herokuapp.com/booking/,400,0,0
+1707037484488,279,CreateBooking,500,Internal Server Error,Thread Group 1-77,text,false,,791,424,117,117,https://restful-booker.herokuapp.com/booking,279,0,0
+1707037484487,281,CreateBooking,500,Internal Server Error,Thread Group 1-84,text,false,,791,424,116,116,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037484366,405,GetBooking,200,OK,Thread Group 1-8,text,true,,12553,186,116,116,https://restful-booker.herokuapp.com/booking/,405,0,0
+1707037484366,406,GetBooking,200,OK,Thread Group 1-45,text,true,,12553,186,115,115,https://restful-booker.herokuapp.com/booking/,406,0,0
+1707037484488,285,CreateBooking,500,Internal Server Error,Thread Group 1-80,text,false,,791,424,115,115,https://restful-booker.herokuapp.com/booking,284,0,0
+1707037483679,1098,login,200,OK,Thread Group 1-101,text,true,,785,254,114,114,https://restful-booker.herokuapp.com/auth,1098,0,813
+1707037484367,413,GetBooking,200,OK,Thread Group 1-35,text,true,,12553,186,115,115,https://restful-booker.herokuapp.com/booking/,413,0,0
+1707037484366,414,GetBooking,200,OK,Thread Group 1-16,text,true,,12553,186,115,115,https://restful-booker.herokuapp.com/booking/,414,0,0
+1707037484366,416,GetBooking,200,OK,Thread Group 1-24,text,true,,12553,186,113,113,https://restful-booker.herokuapp.com/booking/,416,0,0
+1707037484365,428,GetBooking,200,OK,Thread Group 1-21,text,true,,12553,186,112,112,https://restful-booker.herokuapp.com/booking/,428,0,0
+1707037484371,425,GetBooking,200,OK,Thread Group 1-50,text,true,,12553,186,111,111,https://restful-booker.herokuapp.com/booking/,425,0,0
+1707037484370,427,GetBooking,200,OK,Thread Group 1-12,text,true,,12553,186,110,110,https://restful-booker.herokuapp.com/booking/,427,0,0
+1707037484370,431,GetBooking,200,OK,Thread Group 1-55,text,true,,12553,186,109,109,https://restful-booker.herokuapp.com/booking/,431,0,0
+1707037484364,440,GetBooking,200,OK,Thread Group 1-32,text,true,,12553,186,108,108,https://restful-booker.herokuapp.com/booking/,440,0,0
+1707037484369,435,GetBooking,200,OK,Thread Group 1-58,text,true,,12553,186,108,108,https://restful-booker.herokuapp.com/booking/,435,0,0
+1707037484363,444,GetBooking,200,OK,Thread Group 1-25,text,true,,12553,186,107,107,https://restful-booker.herokuapp.com/booking/,444,0,0
+1707037484367,451,GetBooking,200,OK,Thread Group 1-37,text,true,,12553,186,106,106,https://restful-booker.herokuapp.com/booking/,451,0,0
+1707037484371,451,GetBooking,200,OK,Thread Group 1-27,text,true,,12553,186,105,105,https://restful-booker.herokuapp.com/booking/,451,0,0
+1707037484371,451,GetBooking,200,OK,Thread Group 1-38,text,true,,12553,186,105,105,https://restful-booker.herokuapp.com/booking/,451,0,0
+1707037484370,452,GetBooking,200,OK,Thread Group 1-33,text,true,,12553,186,104,104,https://restful-booker.herokuapp.com/booking/,452,0,0
+1707037484368,456,GetBooking,200,OK,Thread Group 1-5,text,true,,12553,186,102,102,https://restful-booker.herokuapp.com/booking/,456,0,0
+1707037484371,456,GetBooking,200,OK,Thread Group 1-30,text,true,,12553,186,101,101,https://restful-booker.herokuapp.com/booking/,456,0,0
+1707037484368,463,GetBooking,200,OK,Thread Group 1-46,text,true,,12553,186,101,101,https://restful-booker.herokuapp.com/booking/,463,0,0
+1707037484370,461,GetBooking,200,OK,Thread Group 1-10,text,true,,12553,186,101,101,https://restful-booker.herokuapp.com/booking/,461,0,0
+1707037484371,463,GetBooking,200,OK,Thread Group 1-11,text,true,,12553,186,99,99,https://restful-booker.herokuapp.com/booking/,463,0,0
+1707037484368,471,GetBooking,200,OK,Thread Group 1-60,text,true,,12553,186,98,98,https://restful-booker.herokuapp.com/booking/,471,0,0
+1707037484367,472,GetBooking,200,OK,Thread Group 1-2,text,true,,12553,186,98,98,https://restful-booker.herokuapp.com/booking/,472,0,0
+1707037484364,475,GetBooking,200,OK,Thread Group 1-1,text,true,,12553,186,98,98,https://restful-booker.herokuapp.com/booking/,475,0,0
+1707037484370,473,GetBooking,200,OK,Thread Group 1-22,text,true,,12553,186,95,95,https://restful-booker.herokuapp.com/booking/,473,0,0
+1707037484370,474,GetBooking,200,OK,Thread Group 1-43,text,true,,12553,186,94,94,https://restful-booker.herokuapp.com/booking/,474,0,0
+1707037484371,477,GetBooking,200,OK,Thread Group 1-53,text,true,,12553,186,93,93,https://restful-booker.herokuapp.com/booking/,477,0,0
+1707037484371,477,GetBooking,200,OK,Thread Group 1-6,text,true,,12553,186,93,93,https://restful-booker.herokuapp.com/booking/,477,0,0
+1707037484370,478,GetBooking,200,OK,Thread Group 1-42,text,true,,12553,186,93,93,https://restful-booker.herokuapp.com/booking/,478,0,0
+1707037484393,459,GetBooking,200,OK,Thread Group 1-67,text,true,,12553,186,90,90,https://restful-booker.herokuapp.com/booking/,459,0,0
+1707037484368,484,GetBooking,200,OK,Thread Group 1-9,text,true,,12553,186,90,90,https://restful-booker.herokuapp.com/booking/,484,0,0
+1707037484367,485,GetBooking,200,OK,Thread Group 1-56,text,true,,12553,186,88,88,https://restful-booker.herokuapp.com/booking/,485,0,0
+1707037484417,441,GetBooking,200,OK,Thread Group 1-63,text,true,,12553,186,88,88,https://restful-booker.herokuapp.com/booking/,441,0,0
+1707037484449,413,GetBooking,200,OK,Thread Group 1-62,text,true,,12553,186,87,87,https://restful-booker.herokuapp.com/booking/,413,0,0
+1707037484446,416,GetBooking,200,OK,Thread Group 1-72,text,true,,12553,186,87,87,https://restful-booker.herokuapp.com/booking/,416,0,0
+1707037484444,418,GetBooking,200,OK,Thread Group 1-70,text,true,,12553,186,87,87,https://restful-booker.herokuapp.com/booking/,418,0,0
+1707037484473,389,GetBooking,200,OK,Thread Group 1-71,text,true,,12553,186,87,87,https://restful-booker.herokuapp.com/booking/,389,0,0
+1707037484474,392,GetBooking,200,OK,Thread Group 1-66,text,true,,12553,186,83,83,https://restful-booker.herokuapp.com/booking/,392,0,0
+1707037484473,395,GetBooking,200,OK,Thread Group 1-73,text,true,,12553,186,82,82,https://restful-booker.herokuapp.com/booking/,395,0,0
+1707037484475,395,GetBooking,200,OK,Thread Group 1-74,text,true,,12553,186,81,81,https://restful-booker.herokuapp.com/booking/,395,0,0
+1707037484474,397,GetBooking,200,OK,Thread Group 1-75,text,true,,12553,186,81,81,https://restful-booker.herokuapp.com/booking/,396,0,0
+1707037484490,388,GetBooking,200,OK,Thread Group 1-65,text,true,,12553,186,79,79,https://restful-booker.herokuapp.com/booking/,388,0,0
+1707037484498,386,GetBooking,200,OK,Thread Group 1-78,text,true,,12553,186,79,79,https://restful-booker.herokuapp.com/booking/,386,0,0
+1707037484487,397,GetBooking,200,OK,Thread Group 1-69,text,true,,12553,186,79,79,https://restful-booker.herokuapp.com/booking/,397,0,0
+1707037484490,394,GetBooking,200,OK,Thread Group 1-76,text,true,,12553,186,79,79,https://restful-booker.herokuapp.com/booking/,394,0,0
+1707037484487,397,GetBooking,200,OK,Thread Group 1-68,text,true,,12553,186,79,79,https://restful-booker.herokuapp.com/booking/,397,0,0
+1707037484559,326,CreateBooking,500,Internal Server Error,Thread Group 1-91,text,false,,791,424,77,77,https://restful-booker.herokuapp.com/booking,326,0,0
+1707037483728,1158,login,200,OK,Thread Group 1-102,text,true,,785,254,77,77,https://restful-booker.herokuapp.com/auth,1158,0,831
+1707037484559,327,CreateBooking,500,Internal Server Error,Thread Group 1-88,text,false,,791,424,77,77,https://restful-booker.herokuapp.com/booking,327,0,0
+1707037484564,323,GetBooking,200,OK,Thread Group 1-64,text,true,,12553,186,77,77,https://restful-booker.herokuapp.com/booking/,323,0,0
+1707037483729,1160,login,200,OK,Thread Group 1-103,text,true,,785,254,76,76,https://restful-booker.herokuapp.com/auth,1160,0,850
+1707037484559,326,CreateBooking,500,Internal Server Error,Thread Group 1-90,text,false,,791,424,77,77,https://restful-booker.herokuapp.com/booking,326,0,0
+1707037484601,291,CreateBooking,500,Internal Server Error,Thread Group 1-94,text,false,,791,424,75,75,https://restful-booker.herokuapp.com/booking,291,0,0
+1707037484589,305,GetBooking,200,OK,Thread Group 1-79,text,true,,12553,186,75,75,https://restful-booker.herokuapp.com/booking/,305,0,0
+1707037483779,1120,login,200,OK,Thread Group 1-105,text,true,,785,254,73,73,https://restful-booker.herokuapp.com/auth,1120,0,844
+1707037483755,1144,login,200,OK,Thread Group 1-104,text,true,,785,254,73,73,https://restful-booker.herokuapp.com/auth,1144,0,868
+1707037484646,288,CreateBooking,500,Internal Server Error,Thread Group 1-95,text,false,,791,424,75,75,https://restful-booker.herokuapp.com/booking,288,0,0
+1707037483805,1131,login,200,OK,Thread Group 1-106,text,true,,785,254,75,75,https://restful-booker.herokuapp.com/auth,1130,0,863
+1707037483829,1108,login,200,OK,Thread Group 1-107,text,true,,785,254,75,75,https://restful-booker.herokuapp.com/auth,1108,0,832
+1707037484668,270,CreateBooking,500,Internal Server Error,Thread Group 1-93,text,false,,791,424,75,75,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037483854,1115,login,200,OK,Thread Group 1-108,text,true,,785,254,76,76,https://restful-booker.herokuapp.com/auth,1115,0,841
+1707037484699,271,CreateBooking,500,Internal Server Error,Thread Group 1-92,text,false,,791,424,76,76,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037483879,1111,login,200,OK,Thread Group 1-109,text,true,,785,254,77,77,https://restful-booker.herokuapp.com/auth,1111,0,839
+1707037484747,262,CreateBooking,500,Internal Server Error,Thread Group 1-97,text,false,,791,424,78,78,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037484738,272,CreateBooking,500,Internal Server Error,Thread Group 1-96,text,false,,791,424,78,78,https://restful-booker.herokuapp.com/booking,272,0,0
+1707037484739,273,GetBooking,200,OK,Thread Group 1-83,text,true,,12571,186,78,78,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037484752,270,GetBooking,200,OK,Thread Group 1-82,text,true,,12571,186,77,77,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037483929,1094,login,200,OK,Thread Group 1-111,text,true,,785,254,76,76,https://restful-booker.herokuapp.com/auth,1094,0,822
+1707037484754,269,CreateBooking,500,Internal Server Error,Thread Group 1-99,text,false,,791,424,76,76,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037484753,270,CreateBooking,500,Internal Server Error,Thread Group 1-98,text,false,,791,424,76,76,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037484364,662,GetBooking,200,OK,Thread Group 1-31,text,true,,12553,186,76,76,https://restful-booker.herokuapp.com/booking/,662,0,0
+1707037484754,273,GetBooking,200,OK,Thread Group 1-87,text,true,,12571,186,75,75,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037484753,277,GetBooking,200,OK,Thread Group 1-86,text,true,,12571,186,75,75,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037484764,268,CreateBooking,500,Internal Server Error,Thread Group 1-100,text,false,,791,424,74,74,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037484761,274,GetBooking,200,OK,Thread Group 1-89,text,true,,12571,186,74,74,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037484758,277,GetBooking,200,OK,Thread Group 1-85,text,true,,12571,186,74,74,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037483910,1127,login,200,OK,Thread Group 1-110,text,true,,785,254,72,72,https://restful-booker.herokuapp.com/auth,1127,0,856
+1707037484758,281,GetBooking,200,OK,Thread Group 1-81,text,true,,12571,186,72,72,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037484769,273,GetBooking,200,OK,Thread Group 1-84,text,true,,12571,186,71,71,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037484778,265,CreateBooking,500,Internal Server Error,Thread Group 1-101,text,false,,791,424,70,70,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037484773,281,GetBooking,200,OK,Thread Group 1-80,text,true,,12571,186,70,70,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037483954,1106,login,200,OK,Thread Group 1-112,text,true,,785,254,70,70,https://restful-booker.herokuapp.com/auth,1106,0,838
+1707037483979,1090,login,200,OK,Thread Group 1-113,text,true,,785,254,70,70,https://restful-booker.herokuapp.com/auth,1090,0,821
+1707037484035,1126,login,200,OK,Thread Group 1-114,text,true,,785,254,74,74,https://restful-booker.herokuapp.com/auth,1126,0,856
+1707037484886,275,CreateBooking,500,Internal Server Error,Thread Group 1-102,text,false,,791,424,74,74,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037484889,277,CreateBooking,500,Internal Server Error,Thread Group 1-103,text,false,,791,424,74,74,https://restful-booker.herokuapp.com/booking,277,0,0
+1707037484892,277,GetBooking,200,OK,Thread Group 1-94,text,true,,12589,186,74,74,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037484899,278,CreateBooking,500,Internal Server Error,Thread Group 1-104,text,false,,791,424,73,73,https://restful-booker.herokuapp.com/booking,277,0,0
+1707037484899,286,CreateBooking,500,Internal Server Error,Thread Group 1-105,text,false,,791,424,73,73,https://restful-booker.herokuapp.com/booking,286,0,0
+1707037484037,1151,login,200,OK,Thread Group 1-115,text,true,,785,254,73,73,https://restful-booker.herokuapp.com/auth,1151,0,859
+1707037484891,297,GetBooking,200,OK,Thread Group 1-90,text,true,,12589,186,73,73,https://restful-booker.herokuapp.com/booking/,297,0,0
+1707037484887,303,GetBooking,200,OK,Thread Group 1-88,text,true,,12589,186,73,73,https://restful-booker.herokuapp.com/booking/,303,0,0
+1707037484886,304,GetBooking,200,OK,Thread Group 1-91,text,true,,12589,186,73,73,https://restful-booker.herokuapp.com/booking/,304,0,0
+1707037484106,1091,login,200,OK,Thread Group 1-118,text,true,,785,254,71,71,https://restful-booker.herokuapp.com/auth,1091,0,816
+1707037484937,260,CreateBooking,500,Internal Server Error,Thread Group 1-107,text,false,,791,424,71,71,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037484936,261,CreateBooking,500,Internal Server Error,Thread Group 1-106,text,false,,791,424,71,71,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037484079,1124,login,200,OK,Thread Group 1-117,text,true,,785,254,71,71,https://restful-booker.herokuapp.com/auth,1124,0,860
+1707037484934,271,GetBooking,200,OK,Thread Group 1-95,text,true,,12589,186,72,72,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037484056,1151,login,200,OK,Thread Group 1-116,text,true,,785,254,71,71,https://restful-booker.herokuapp.com/auth,1151,0,884
+1707037484129,1086,login,200,OK,Thread Group 1-119,text,true,,785,254,71,71,https://restful-booker.herokuapp.com/auth,1086,0,817
+1707037484939,279,GetBooking,200,OK,Thread Group 1-93,text,true,,12571,186,71,71,https://restful-booker.herokuapp.com/booking/,279,0,0
+1707037484969,259,CreateBooking,500,Internal Server Error,Thread Group 1-108,text,false,,791,424,71,71,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037484970,266,GetBooking,200,OK,Thread Group 1-92,text,true,,12571,186,71,71,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037484154,1101,login,200,OK,Thread Group 1-120,text,true,,785,254,71,71,https://restful-booker.herokuapp.com/auth,1101,0,836
+1707037484990,264,CreateBooking,500,Internal Server Error,Thread Group 1-109,text,false,,791,424,71,71,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037484179,1087,login,200,OK,Thread Group 1-121,text,true,,785,254,71,71,https://restful-booker.herokuapp.com/auth,1087,0,818
+1707037484203,1067,login,200,OK,Thread Group 1-122,text,true,,785,254,71,71,https://restful-booker.herokuapp.com/auth,1067,0,806
+1707037485010,268,GetBooking,200,OK,Thread Group 1-96,text,true,,12571,186,71,71,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037485010,269,GetBooking,200,OK,Thread Group 1-97,text,true,,12571,186,71,71,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037485024,263,GetBooking,200,OK,Thread Group 1-98,text,true,,12571,186,70,70,https://restful-booker.herokuapp.com/booking/,263,0,0
+1707037485023,265,CreateBooking,500,Internal Server Error,Thread Group 1-111,text,false,,791,424,69,69,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037485024,266,GetBooking,200,OK,Thread Group 1-99,text,true,,12571,186,69,69,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037484767,527,GetBooking,200,OK,Thread Group 1-77,text,true,,12571,186,68,68,https://restful-booker.herokuapp.com/booking/,527,0,0
+1707037485032,267,GetBooking,200,OK,Thread Group 1-100,text,true,,12571,186,67,67,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037484230,1073,login,200,OK,Thread Group 1-123,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1073,0,812
+1707037485037,266,CreateBooking,500,Internal Server Error,Thread Group 1-110,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037485044,266,GetBooking,200,OK,Thread Group 1-101,text,true,,12571,186,67,67,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037485060,259,CreateBooking,500,Internal Server Error,Thread Group 1-112,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037484253,1082,login,200,OK,Thread Group 1-124,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1081,0,818
+1707037485069,266,CreateBooking,500,Internal Server Error,Thread Group 1-113,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037484365,1011,GetBooking,200,OK,Thread Group 1-61,text,true,,12553,186,68,68,https://restful-booker.herokuapp.com/booking/,1011,0,0
+1707037484278,1126,login,200,OK,Thread Group 1-125,text,true,,785,254,69,69,https://restful-booker.herokuapp.com/auth,1126,0,862
+1707037484309,1118,login,200,OK,Thread Group 1-126,text,true,,785,254,69,69,https://restful-booker.herokuapp.com/auth,1118,0,857
+1707037485162,264,CreateBooking,500,Internal Server Error,Thread Group 1-114,text,false,,791,424,69,69,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037485166,267,GetBooking,200,OK,Thread Group 1-103,text,true,,12589,186,70,70,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037485162,275,GetBooking,200,OK,Thread Group 1-102,text,true,,12589,186,69,69,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037485186,262,GetBooking,200,OK,Thread Group 1-105,text,true,,12589,186,68,68,https://restful-booker.herokuapp.com/booking/,262,0,0
+1707037485188,265,CreateBooking,500,Internal Server Error,Thread Group 1-115,text,false,,791,424,68,68,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037485177,280,GetBooking,200,OK,Thread Group 1-104,text,true,,12589,186,68,68,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037484379,1079,login,200,OK,Thread Group 1-128,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1079,0,813
+1707037485197,261,CreateBooking,500,Internal Server Error,Thread Group 1-118,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037485197,265,GetBooking,200,OK,Thread Group 1-106,text,true,,12589,186,67,67,https://restful-booker.herokuapp.com/booking/,265,0,0
+1707037484333,1140,login,200,OK,Thread Group 1-127,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1140,0,856
+1707037485203,270,CreateBooking,500,Internal Server Error,Thread Group 1-117,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037485198,277,GetBooking,200,OK,Thread Group 1-107,text,true,,12589,186,66,66,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037485207,271,CreateBooking,500,Internal Server Error,Thread Group 1-116,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037484379,1101,login,200,OK,Thread Group 1-129,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1101,0,838
+1707037485215,272,CreateBooking,500,Internal Server Error,Thread Group 1-119,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,272,0,0
+1707037485229,264,GetBooking,200,OK,Thread Group 1-108,text,true,,12589,186,66,66,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037484404,1103,login,200,OK,Thread Group 1-130,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1103,0,834
+1707037484430,1103,login,200,OK,Thread Group 1-131,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1103,0,824
+1707037485255,279,CreateBooking,500,Internal Server Error,Thread Group 1-120,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,279,0,0
+1707037485270,265,CreateBooking,500,Internal Server Error,Thread Group 1-122,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037484455,1081,login,200,OK,Thread Group 1-132,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1081,0,811
+1707037485255,282,GetBooking,200,OK,Thread Group 1-109,text,true,,12589,186,67,67,https://restful-booker.herokuapp.com/booking/,282,0,0
+1707037485267,270,CreateBooking,500,Internal Server Error,Thread Group 1-121,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037484480,1059,login,200,OK,Thread Group 1-133,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1059,0,799
+1707037485289,268,GetBooking,200,OK,Thread Group 1-111,text,true,,12589,186,67,67,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037485303,277,CreateBooking,500,Internal Server Error,Thread Group 1-123,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,277,0,0
+1707037484504,1079,login,200,OK,Thread Group 1-134,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1079,0,814
+1707037485304,289,GetBooking,200,OK,Thread Group 1-110,text,true,,12589,186,67,67,https://restful-booker.herokuapp.com/booking/,289,0,0
+1707037485320,274,GetBooking,200,OK,Thread Group 1-112,text,true,,12581,186,66,66,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037485335,260,CreateBooking,500,Internal Server Error,Thread Group 1-124,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037485335,267,GetBooking,200,OK,Thread Group 1-113,text,true,,12599,186,65,65,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037484529,1112,login,200,OK,Thread Group 1-135,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1112,0,847
+1707037485405,262,CreateBooking,500,Internal Server Error,Thread Group 1-125,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037485427,270,CreateBooking,500,Internal Server Error,Thread Group 1-126,text,false,,783,424,68,68,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037485427,273,GetBooking,200,OK,Thread Group 1-114,text,true,,12599,186,68,68,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037484556,1146,login,200,OK,Thread Group 1-136,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1146,0,885
+1707037484579,1125,login,200,OK,Thread Group 1-137,text,true,,777,254,68,68,https://restful-booker.herokuapp.com/auth,1125,0,863
+1707037484629,1083,login,200,OK,Thread Group 1-139,text,true,,777,254,68,68,https://restful-booker.herokuapp.com/auth,1083,0,812
+1707037484604,1117,login,200,OK,Thread Group 1-138,text,true,,777,254,68,68,https://restful-booker.herokuapp.com/auth,1117,0,849
+1707037485454,269,GetBooking,200,OK,Thread Group 1-115,text,true,,12599,186,68,68,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037484682,1060,login,200,OK,Thread Group 1-141,text,true,,777,254,68,68,https://restful-booker.herokuapp.com/auth,1060,0,796
+1707037485458,284,CreateBooking,500,Internal Server Error,Thread Group 1-128,text,false,,783,424,68,68,https://restful-booker.herokuapp.com/booking,284,0,0
+1707037485459,286,GetBooking,200,OK,Thread Group 1-118,text,true,,12599,186,68,68,https://restful-booker.herokuapp.com/booking/,286,0,0
+1707037485474,273,GetBooking,200,OK,Thread Group 1-117,text,true,,12599,186,67,67,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037484654,1094,login,200,OK,Thread Group 1-140,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1094,0,824
+1707037485473,275,CreateBooking,500,Internal Server Error,Thread Group 1-127,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037485481,268,CreateBooking,500,Internal Server Error,Thread Group 1-129,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037485479,280,GetBooking,200,OK,Thread Group 1-116,text,true,,12599,186,66,66,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037485488,272,GetBooking,200,OK,Thread Group 1-119,text,true,,12599,186,65,65,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037484704,1059,login,200,OK,Thread Group 1-142,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1059,0,791
+1707037485507,266,CreateBooking,500,Internal Server Error,Thread Group 1-130,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037485534,258,CreateBooking,500,Internal Server Error,Thread Group 1-131,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037484729,1069,login,200,OK,Thread Group 1-143,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1069,0,806
+1707037485537,261,CreateBooking,500,Internal Server Error,Thread Group 1-132,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037485535,264,GetBooking,200,OK,Thread Group 1-122,text,true,,12617,186,66,66,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037485534,267,GetBooking,200,OK,Thread Group 1-120,text,true,,12617,186,65,65,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037485539,264,CreateBooking,500,Internal Server Error,Thread Group 1-133,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037485538,281,GetBooking,200,OK,Thread Group 1-121,text,true,,12617,186,65,65,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037484779,1049,login,200,OK,Thread Group 1-145,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1049,0,794
+1707037484756,1089,login,200,OK,Thread Group 1-144,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1089,0,824
+1707037485583,262,CreateBooking,500,Internal Server Error,Thread Group 1-134,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037485581,266,GetBooking,200,OK,Thread Group 1-123,text,true,,12617,186,65,65,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037484806,1057,login,200,OK,Thread Group 1-146,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1057,0,789
+1707037485596,270,GetBooking,200,OK,Thread Group 1-124,text,true,,12617,186,65,65,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037484829,1074,login,200,OK,Thread Group 1-147,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1074,0,802
+1707037485641,263,CreateBooking,500,Internal Server Error,Thread Group 1-135,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037484854,1052,login,200,OK,Thread Group 1-148,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1052,0,794
+1707037485668,267,GetBooking,200,OK,Thread Group 1-125,text,true,,12599,186,67,67,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037484879,1090,login,200,OK,Thread Group 1-149,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1090,0,818
+1707037485703,266,CreateBooking,500,Internal Server Error,Thread Group 1-136,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037485704,266,CreateBooking,500,Internal Server Error,Thread Group 1-137,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037484906,1069,login,200,OK,Thread Group 1-150,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1069,0,808
+1707037485713,262,CreateBooking,500,Internal Server Error,Thread Group 1-139,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037485698,278,GetBooking,200,OK,Thread Group 1-126,text,true,,12599,186,67,67,https://restful-booker.herokuapp.com/booking/,278,0,0
+1707037485721,273,CreateBooking,500,Internal Server Error,Thread Group 1-138,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037484929,1066,login,200,OK,Thread Group 1-151,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1066,0,801
+1707037485742,267,CreateBooking,500,Internal Server Error,Thread Group 1-141,text,false,,783,424,68,68,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037485748,273,CreateBooking,500,Internal Server Error,Thread Group 1-140,text,false,,783,424,68,68,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037485743,290,GetBooking,200,OK,Thread Group 1-128,text,true,,12617,186,69,69,https://restful-booker.herokuapp.com/booking/,290,0,0
+1707037484954,1085,login,200,OK,Thread Group 1-152,text,true,,777,254,68,68,https://restful-booker.herokuapp.com/auth,1084,0,802
+1707037485750,290,GetBooking,200,OK,Thread Group 1-129,text,true,,12617,186,68,68,https://restful-booker.herokuapp.com/booking/,290,0,0
+1707037485749,292,GetBooking,200,OK,Thread Group 1-127,text,true,,12617,186,67,67,https://restful-booker.herokuapp.com/booking/,292,0,0
+1707037485763,279,CreateBooking,500,Internal Server Error,Thread Group 1-142,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,279,0,0
+1707037484981,1062,login,200,OK,Thread Group 1-153,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1062,0,791
+1707037485774,276,GetBooking,200,OK,Thread Group 1-130,text,true,,12617,186,66,66,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037485793,266,GetBooking,200,OK,Thread Group 1-131,text,true,,12617,186,66,66,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037485055,1060,login,200,OK,Thread Group 1-156,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1060,0,797
+1707037485031,1086,login,200,OK,Thread Group 1-155,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1086,0,805
+1707037485845,273,CreateBooking,500,Internal Server Error,Thread Group 1-144,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037485828,291,CreateBooking,500,Internal Server Error,Thread Group 1-145,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,291,0,0
+1707037485846,274,GetBooking,200,OK,Thread Group 1-134,text,true,,12635,186,65,65,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037485005,1118,login,200,OK,Thread Group 1-154,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1118,0,798
+1707037485799,329,CreateBooking,500,Internal Server Error,Thread Group 1-143,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,329,0,0
+1707037485863,267,CreateBooking,500,Internal Server Error,Thread Group 1-146,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037485799,335,GetBooking,200,OK,Thread Group 1-132,text,true,,12617,186,67,67,https://restful-booker.herokuapp.com/booking/,335,0,0
+1707037485803,353,GetBooking,200,OK,Thread Group 1-133,text,true,,12617,186,67,67,https://restful-booker.herokuapp.com/booking/,353,0,0
+1707037485080,1085,login,200,OK,Thread Group 1-157,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1085,0,810
+1707037485105,1060,login,200,OK,Thread Group 1-158,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1060,0,794
+1707037485906,261,CreateBooking,500,Internal Server Error,Thread Group 1-148,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037485903,264,CreateBooking,500,Internal Server Error,Thread Group 1-147,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037485905,266,GetBooking,200,OK,Thread Group 1-135,text,true,,12635,186,66,66,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037485130,1049,login,200,OK,Thread Group 1-159,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1049,0,788
+1707037485154,1039,login,200,OK,Thread Group 1-160,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1039,0,775
+1707037485970,268,GetBooking,200,OK,Thread Group 1-136,text,true,,12653,186,68,68,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037485970,270,CreateBooking,500,Internal Server Error,Thread Group 1-149,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037485975,276,CreateBooking,500,Internal Server Error,Thread Group 1-150,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,276,0,0
+1707037485975,278,GetBooking,200,OK,Thread Group 1-139,text,true,,12653,186,67,67,https://restful-booker.herokuapp.com/booking/,278,0,0
+1707037485971,282,GetBooking,200,OK,Thread Group 1-137,text,true,,12653,186,67,67,https://restful-booker.herokuapp.com/booking/,282,0,0
+1707037485995,265,CreateBooking,500,Internal Server Error,Thread Group 1-151,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037485994,270,GetBooking,200,OK,Thread Group 1-138,text,true,,12653,186,66,66,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037486010,270,GetBooking,200,OK,Thread Group 1-141,text,true,,12653,186,66,66,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037486022,280,GetBooking,200,OK,Thread Group 1-140,text,true,,12653,186,65,65,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037486039,271,CreateBooking,500,Internal Server Error,Thread Group 1-152,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037485204,1107,login,200,OK,Thread Group 1-162,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1107,0,834
+1707037485229,1082,login,200,OK,Thread Group 1-163,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1082,0,813
+1707037486043,274,CreateBooking,500,Internal Server Error,Thread Group 1-153,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037486043,279,GetBooking,200,OK,Thread Group 1-142,text,true,,12671,186,65,65,https://restful-booker.herokuapp.com/booking/,279,0,0
+1707037485191,1133,login,200,OK,Thread Group 1-161,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1133,0,851
+1707037485305,1068,login,200,OK,Thread Group 1-166,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1068,0,811
+1707037486117,262,CreateBooking,500,Internal Server Error,Thread Group 1-155,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037486115,265,CreateBooking,500,Internal Server Error,Thread Group 1-156,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037486119,272,GetBooking,200,OK,Thread Group 1-145,text,true,,12689,186,67,67,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037486123,284,CreateBooking,500,Internal Server Error,Thread Group 1-154,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,284,0,0
+1707037485254,1153,login,200,OK,Thread Group 1-164,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1153,0,869
+1707037485279,1129,login,200,OK,Thread Group 1-165,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1129,0,843
+1707037486130,281,GetBooking,200,OK,Thread Group 1-146,text,true,,12689,186,67,67,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037485354,1059,login,200,OK,Thread Group 1-168,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1059,0,794
+1707037486130,284,GetBooking,200,OK,Thread Group 1-143,text,true,,12689,186,66,66,https://restful-booker.herokuapp.com/booking/,284,0,0
+1707037486118,296,GetBooking,200,OK,Thread Group 1-144,text,true,,12689,186,66,66,https://restful-booker.herokuapp.com/booking/,296,0,0
+1707037485328,1105,login,200,OK,Thread Group 1-167,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1105,0,837
+1707037486166,267,CreateBooking,500,Internal Server Error,Thread Group 1-158,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037485379,1055,login,200,OK,Thread Group 1-169,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1055,0,794
+1707037486166,268,CreateBooking,500,Internal Server Error,Thread Group 1-157,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037486168,268,GetBooking,200,OK,Thread Group 1-148,text,true,,12707,186,65,65,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037486168,280,GetBooking,200,OK,Thread Group 1-147,text,true,,12707,186,64,64,https://restful-booker.herokuapp.com/booking/,279,0,0
+1707037485404,1047,login,200,OK,Thread Group 1-170,text,true,,777,254,63,63,https://restful-booker.herokuapp.com/auth,1047,0,789
+1707037486194,264,CreateBooking,500,Internal Server Error,Thread Group 1-160,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037486179,279,CreateBooking,500,Internal Server Error,Thread Group 1-159,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,279,0,0
+1707037486241,268,GetBooking,200,OK,Thread Group 1-149,text,true,,12725,186,66,66,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037485453,1065,login,200,OK,Thread Group 1-172,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1065,0,802
+1707037485429,1090,login,200,OK,Thread Group 1-171,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1090,0,822
+1707037486251,270,GetBooking,200,OK,Thread Group 1-150,text,true,,12725,186,65,65,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037486260,268,GetBooking,200,OK,Thread Group 1-151,text,true,,12725,186,64,64,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037486311,273,CreateBooking,500,Internal Server Error,Thread Group 1-162,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037486311,274,CreateBooking,500,Internal Server Error,Thread Group 1-163,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037486310,276,GetBooking,200,OK,Thread Group 1-152,text,true,,12743,186,66,66,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037486324,271,CreateBooking,500,Internal Server Error,Thread Group 1-161,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037485479,1117,login,200,OK,Thread Group 1-173,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1117,0,837
+1707037485504,1092,login,200,OK,Thread Group 1-174,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1092,0,822
+1707037486317,281,GetBooking,200,OK,Thread Group 1-153,text,true,,12725,186,65,65,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037485529,1081,login,200,OK,Thread Group 1-175,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1081,0,803
+1707037486374,260,CreateBooking,500,Internal Server Error,Thread Group 1-166,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037486380,272,GetBooking,200,OK,Thread Group 1-155,text,true,,12725,186,66,66,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037486381,285,GetBooking,200,OK,Thread Group 1-156,text,true,,12725,186,66,66,https://restful-booker.herokuapp.com/booking/,285,0,0
+1707037486407,271,GetBooking,200,OK,Thread Group 1-154,text,true,,12707,186,65,65,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037486413,264,CreateBooking,500,Internal Server Error,Thread Group 1-168,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037485580,1109,login,200,OK,Thread Group 1-177,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1109,0,832
+1707037486407,282,CreateBooking,500,Internal Server Error,Thread Group 1-164,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,282,0,0
+1707037486409,280,CreateBooking,500,Internal Server Error,Thread Group 1-165,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,280,0,0
+1707037485628,1062,login,200,OK,Thread Group 1-179,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1062,0,803
+1707037485604,1098,login,200,OK,Thread Group 1-178,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1098,0,827
+1707037485554,1148,login,200,OK,Thread Group 1-176,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1148,0,864
+1707037486434,270,CreateBooking,500,Internal Server Error,Thread Group 1-169,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037486433,273,CreateBooking,500,Internal Server Error,Thread Group 1-167,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037486434,272,GetBooking,200,OK,Thread Group 1-157,text,true,,12707,186,66,66,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037486433,275,GetBooking,200,OK,Thread Group 1-158,text,true,,12707,186,65,65,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037486452,266,CreateBooking,500,Internal Server Error,Thread Group 1-170,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037485654,1066,login,200,OK,Thread Group 1-180,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1066,0,797
+1707037486459,264,GetBooking,200,OK,Thread Group 1-160,text,true,,12707,186,64,64,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037486459,266,GetBooking,200,OK,Thread Group 1-159,text,true,,12707,186,63,63,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037485679,1049,login,200,OK,Thread Group 1-181,text,true,,777,254,62,62,https://restful-booker.herokuapp.com/auth,1049,0,789
+1707037485704,1064,login,200,OK,Thread Group 1-182,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1064,0,803
+1707037486520,269,CreateBooking,500,Internal Server Error,Thread Group 1-171,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037485727,1062,login,200,OK,Thread Group 1-183,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1062,0,796
+1707037486519,270,CreateBooking,500,Internal Server Error,Thread Group 1-172,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037486585,297,GetBooking,200,OK,Thread Group 1-163,text,true,,12725,186,69,69,https://restful-booker.herokuapp.com/booking/,297,0,0
+1707037486585,297,GetBooking,200,OK,Thread Group 1-162,text,true,,12725,186,69,69,https://restful-booker.herokuapp.com/booking/,297,0,0
+1707037485761,1125,login,200,OK,Thread Group 1-184,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1125,0,838
+1707037485778,1108,login,200,OK,Thread Group 1-185,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1108,0,806
+1707037486611,275,CreateBooking,500,Internal Server Error,Thread Group 1-175,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037486596,291,CreateBooking,500,Internal Server Error,Thread Group 1-173,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,291,0,0
+1707037486596,291,CreateBooking,500,Internal Server Error,Thread Group 1-174,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,291,0,0
+1707037486596,293,GetBooking,200,OK,Thread Group 1-161,text,true,,12725,186,67,67,https://restful-booker.herokuapp.com/booking/,293,0,0
+1707037486635,267,GetBooking,200,OK,Thread Group 1-166,text,true,,12725,186,66,66,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037485828,1099,login,200,OK,Thread Group 1-187,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1099,0,845
+1707037485853,1076,login,200,OK,Thread Group 1-188,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1076,0,820
+1707037486690,259,CreateBooking,500,Internal Server Error,Thread Group 1-179,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037486689,264,CreateBooking,500,Internal Server Error,Thread Group 1-177,text,false,,783,424,68,68,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037485879,1076,login,200,OK,Thread Group 1-189,text,true,,777,254,68,68,https://restful-booker.herokuapp.com/auth,1076,0,811
+1707037486689,275,GetBooking,200,OK,Thread Group 1-164,text,true,,12725,186,68,68,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037486679,286,GetBooking,200,OK,Thread Group 1-168,text,true,,12725,186,67,67,https://restful-booker.herokuapp.com/booking/,286,0,0
+1707037485903,1064,login,200,OK,Thread Group 1-190,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1064,0,801
+1707037485804,1163,login,200,OK,Thread Group 1-186,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1163,0,900
+1707037486702,266,CreateBooking,500,Internal Server Error,Thread Group 1-178,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037486689,280,GetBooking,200,OK,Thread Group 1-165,text,true,,12725,186,66,66,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037486702,275,CreateBooking,500,Internal Server Error,Thread Group 1-176,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037486705,275,GetBooking,200,OK,Thread Group 1-169,text,true,,12725,186,66,66,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037486706,278,GetBooking,200,OK,Thread Group 1-167,text,true,,12725,186,65,65,https://restful-booker.herokuapp.com/booking/,278,0,0
+1707037486719,267,GetBooking,200,OK,Thread Group 1-170,text,true,,12725,186,64,64,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037486728,268,CreateBooking,500,Internal Server Error,Thread Group 1-181,text,false,,783,424,63,63,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037486721,275,CreateBooking,500,Internal Server Error,Thread Group 1-180,text,false,,783,424,63,63,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037485928,1069,login,200,OK,Thread Group 1-191,text,true,,777,254,63,63,https://restful-booker.herokuapp.com/auth,1069,0,800
+1707037485954,1064,login,200,OK,Thread Group 1-192,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1064,0,807
+1707037486769,261,CreateBooking,500,Internal Server Error,Thread Group 1-182,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037485978,1074,login,200,OK,Thread Group 1-193,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1074,0,811
+1707037486790,262,CreateBooking,500,Internal Server Error,Thread Group 1-183,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037486791,263,GetBooking,200,OK,Thread Group 1-172,text,true,,12761,186,66,66,https://restful-booker.herokuapp.com/booking/,263,0,0
+1707037486790,267,GetBooking,200,OK,Thread Group 1-171,text,true,,12761,186,65,65,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037486003,1079,login,200,OK,Thread Group 1-194,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1078,0,818
+1707037486029,1066,login,200,OK,Thread Group 1-195,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1066,0,801
+1707037486054,1083,login,200,OK,Thread Group 1-196,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1083,0,822
+1707037486886,259,CreateBooking,500,Internal Server Error,Thread Group 1-185,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037486886,262,CreateBooking,500,Internal Server Error,Thread Group 1-184,text,false,,783,424,67,67,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037486887,272,GetBooking,200,OK,Thread Group 1-174,text,true,,12761,186,68,68,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037486887,273,GetBooking,200,OK,Thread Group 1-173,text,true,,12761,186,67,67,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037486886,274,GetBooking,200,OK,Thread Group 1-175,text,true,,12761,186,67,67,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037486121,1057,login,200,OK,Thread Group 1-198,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1057,0,799
+1707037486929,259,CreateBooking,500,Internal Server Error,Thread Group 1-188,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037486927,261,CreateBooking,500,Internal Server Error,Thread Group 1-187,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037486133,1086,login,200,OK,Thread Group 1-199,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1086,0,815
+1707037486954,265,GetBooking,200,OK,Thread Group 1-177,text,true,,12797,186,67,67,https://restful-booker.herokuapp.com/booking/,265,0,0
+1707037486125,1094,login,200,OK,Thread Group 1-197,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1094,0,823
+1707037486949,273,GetBooking,200,OK,Thread Group 1-179,text,true,,12797,186,66,66,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037486955,269,CreateBooking,500,Internal Server Error,Thread Group 1-189,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037486967,257,CreateBooking,500,Internal Server Error,Thread Group 1-190,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,257,0,0
+1707037486967,258,CreateBooking,500,Internal Server Error,Thread Group 1-186,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037486155,1095,login,200,OK,Thread Group 1-200,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1095,0,811
+1707037486178,1074,login,200,OK,Thread Group 1-201,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1074,0,803
+1707037486968,287,GetBooking,200,OK,Thread Group 1-178,text,true,,12797,186,66,66,https://restful-booker.herokuapp.com/booking/,287,0,0
+1707037486977,284,GetBooking,200,OK,Thread Group 1-176,text,true,,12797,186,66,66,https://restful-booker.herokuapp.com/booking/,284,0,0
+1707037486996,267,GetBooking,200,OK,Thread Group 1-181,text,true,,12797,186,65,65,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037486996,271,GetBooking,200,OK,Thread Group 1-180,text,true,,12797,186,64,64,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037486997,271,CreateBooking,500,Internal Server Error,Thread Group 1-191,text,false,,783,424,63,63,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037486204,1077,login,200,OK,Thread Group 1-202,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1077,0,803
+1707037487018,265,CreateBooking,500,Internal Server Error,Thread Group 1-192,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037486229,1071,login,200,OK,Thread Group 1-203,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1071,0,800
+1707037487030,275,GetBooking,200,OK,Thread Group 1-182,text,true,,12797,186,65,65,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037487052,271,CreateBooking,500,Internal Server Error,Thread Group 1-193,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037486256,1068,login,200,OK,Thread Group 1-204,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1068,0,802
+1707037487052,273,GetBooking,200,OK,Thread Group 1-183,text,true,,12797,186,64,64,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037486279,1058,login,200,OK,Thread Group 1-205,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1058,0,789
+1707037487082,269,CreateBooking,500,Internal Server Error,Thread Group 1-194,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037487095,263,CreateBooking,500,Internal Server Error,Thread Group 1-195,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037486304,1065,login,200,OK,Thread Group 1-206,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1065,0,803
+1707037486328,1067,login,200,OK,Thread Group 1-207,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1067,0,806
+1707037487137,259,CreateBooking,500,Internal Server Error,Thread Group 1-196,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037487146,260,GetBooking,200,OK,Thread Group 1-185,text,true,,12797,186,67,67,https://restful-booker.herokuapp.com/booking/,260,0,0
+1707037486354,1105,login,200,OK,Thread Group 1-208,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1105,0,807
+1707037486379,1081,login,200,OK,Thread Group 1-209,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1081,0,794
+1707037487178,283,CreateBooking,500,Internal Server Error,Thread Group 1-198,text,false,,783,424,68,68,https://restful-booker.herokuapp.com/booking,283,0,0
+1707037487189,275,GetBooking,200,OK,Thread Group 1-188,text,true,,12815,186,68,68,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037487189,277,GetBooking,200,OK,Thread Group 1-187,text,true,,12815,186,67,67,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037487148,318,GetBooking,200,OK,Thread Group 1-184,text,true,,12797,186,67,67,https://restful-booker.herokuapp.com/booking/,318,0,0
+1707037486405,1077,login,200,OK,Thread Group 1-210,text,true,,777,254,66,66,https://restful-booker.herokuapp.com/auth,1077,0,814
+1707037487219,263,CreateBooking,500,Internal Server Error,Thread Group 1-199,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037487219,263,CreateBooking,500,Internal Server Error,Thread Group 1-197,text,false,,783,424,66,66,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037487224,269,GetBooking,200,OK,Thread Group 1-189,text,true,,12815,186,66,66,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037487224,270,GetBooking,200,OK,Thread Group 1-190,text,true,,12815,186,66,66,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037487226,273,GetBooking,200,OK,Thread Group 1-186,text,true,,12815,186,64,64,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037487252,269,CreateBooking,500,Internal Server Error,Thread Group 1-201,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037487250,271,CreateBooking,500,Internal Server Error,Thread Group 1-200,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037486428,1096,login,200,OK,Thread Group 1-211,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1096,0,824
+1707037486454,1082,login,200,OK,Thread Group 1-212,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1082,0,814
+1707037487269,269,GetBooking,200,OK,Thread Group 1-191,text,true,,12833,186,65,65,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037487281,268,CreateBooking,500,Internal Server Error,Thread Group 1-202,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037486480,1069,login,200,OK,Thread Group 1-213,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1069,0,803
+1707037487284,273,GetBooking,200,OK,Thread Group 1-192,text,true,,12833,186,65,65,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037487300,279,CreateBooking,500,Internal Server Error,Thread Group 1-203,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,279,0,0
+1707037487324,270,CreateBooking,500,Internal Server Error,Thread Group 1-204,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037487338,263,CreateBooking,500,Internal Server Error,Thread Group 1-205,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037486505,1097,login,200,OK,Thread Group 1-214,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1097,0,817
+1707037486530,1073,login,200,OK,Thread Group 1-215,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1073,0,807
+1707037487323,281,GetBooking,200,OK,Thread Group 1-193,text,true,,12841,186,65,65,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037486554,1069,login,200,OK,Thread Group 1-216,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1069,0,797
+1707037487351,278,GetBooking,200,OK,Thread Group 1-194,text,true,,12841,186,65,65,https://restful-booker.herokuapp.com/booking/,278,0,0
+1707037487358,271,GetBooking,200,OK,Thread Group 1-195,text,true,,12841,186,65,65,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037487369,261,CreateBooking,500,Internal Server Error,Thread Group 1-206,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037486578,1069,login,200,OK,Thread Group 1-217,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1069,0,797
+1707037487395,260,CreateBooking,500,Internal Server Error,Thread Group 1-207,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037487396,268,GetBooking,200,OK,Thread Group 1-196,text,true,,12841,186,65,65,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037486654,1058,login,200,OK,Thread Group 1-220,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1058,0,795
+1707037486604,1116,login,200,OK,Thread Group 1-218,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1116,0,826
+1707037487460,277,CreateBooking,500,Internal Server Error,Thread Group 1-209,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,276,0,0
+1707037487462,278,GetBooking,200,OK,Thread Group 1-198,text,true,,12859,186,67,67,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037487460,286,CreateBooking,500,Internal Server Error,Thread Group 1-208,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,286,0,0
+1707037486628,1119,login,200,OK,Thread Group 1-219,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1119,0,833
+1707037487482,272,CreateBooking,500,Internal Server Error,Thread Group 1-210,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,272,0,0
+1707037487482,276,GetBooking,200,OK,Thread Group 1-199,text,true,,12895,186,67,67,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037487482,281,GetBooking,200,OK,Thread Group 1-197,text,true,,12895,186,66,66,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037486680,1085,login,200,OK,Thread Group 1-221,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1085,0,816
+1707037487524,259,CreateBooking,500,Internal Server Error,Thread Group 1-211,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037487522,268,GetBooking,200,OK,Thread Group 1-200,text,true,,12895,186,66,66,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037487522,271,GetBooking,200,OK,Thread Group 1-201,text,true,,12895,186,65,65,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037487537,260,CreateBooking,500,Internal Server Error,Thread Group 1-212,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037486707,1091,login,200,OK,Thread Group 1-222,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1091,0,829
+1707037486730,1086,login,200,OK,Thread Group 1-223,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1086,0,819
+1707037487549,269,CreateBooking,500,Internal Server Error,Thread Group 1-213,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037487549,271,GetBooking,200,OK,Thread Group 1-202,text,true,,12877,186,65,65,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037487579,262,GetBooking,200,OK,Thread Group 1-203,text,true,,12877,186,65,65,https://restful-booker.herokuapp.com/booking/,262,0,0
+1707037486754,1088,login,200,OK,Thread Group 1-224,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1088,0,825
+1707037487595,270,GetBooking,200,OK,Thread Group 1-204,text,true,,12877,186,65,65,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037487603,263,CreateBooking,500,Internal Server Error,Thread Group 1-215,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037487603,263,CreateBooking,500,Internal Server Error,Thread Group 1-214,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037487602,267,GetBooking,200,OK,Thread Group 1-205,text,true,,12877,186,64,64,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037486804,1066,login,200,OK,Thread Group 1-226,text,true,,785,254,63,63,https://restful-booker.herokuapp.com/auth,1066,0,803
+1707037486779,1091,login,200,OK,Thread Group 1-225,text,true,,785,254,63,63,https://restful-booker.herokuapp.com/auth,1091,0,828
+1707037487624,260,CreateBooking,500,Internal Server Error,Thread Group 1-216,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037486829,1058,login,200,OK,Thread Group 1-227,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1058,0,797
+1707037486854,1040,login,200,OK,Thread Group 1-228,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1040,0,780
+1707037487631,268,GetBooking,200,OK,Thread Group 1-206,text,true,,12877,186,64,64,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037487647,276,CreateBooking,500,Internal Server Error,Thread Group 1-217,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,276,0,0
+1707037487656,270,GetBooking,200,OK,Thread Group 1-207,text,true,,12877,186,64,64,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037486884,1069,login,200,OK,Thread Group 1-229,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1068,0,809
+1707037487712,260,CreateBooking,500,Internal Server Error,Thread Group 1-220,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037487720,261,CreateBooking,500,Internal Server Error,Thread Group 1-218,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037487737,265,GetBooking,200,OK,Thread Group 1-209,text,true,,12913,186,66,66,https://restful-booker.herokuapp.com/booking/,265,0,0
+1707037487746,280,GetBooking,200,OK,Thread Group 1-208,text,true,,12913,186,66,66,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037486904,1124,login,200,OK,Thread Group 1-230,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1124,0,846
+1707037487755,274,GetBooking,200,OK,Thread Group 1-210,text,true,,12913,186,65,65,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037487747,283,CreateBooking,500,Internal Server Error,Thread Group 1-219,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,283,0,0
+1707037486954,1078,login,200,OK,Thread Group 1-232,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1078,0,806
+1707037486928,1105,login,200,OK,Thread Group 1-231,text,true,,785,254,64,64,https://restful-booker.herokuapp.com/auth,1105,0,822
+1707037487765,269,CreateBooking,500,Internal Server Error,Thread Group 1-221,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037487004,1041,login,200,OK,Thread Group 1-234,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1041,0,785
+1707037486979,1075,login,200,OK,Thread Group 1-233,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1075,0,813
+1707037487784,273,GetBooking,200,OK,Thread Group 1-211,text,true,,12895,186,66,66,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037487798,263,CreateBooking,500,Internal Server Error,Thread Group 1-222,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037487798,272,GetBooking,200,OK,Thread Group 1-212,text,true,,12895,186,65,65,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037487816,264,CreateBooking,500,Internal Server Error,Thread Group 1-223,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037487843,264,CreateBooking,500,Internal Server Error,Thread Group 1-224,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037487028,1087,login,200,OK,Thread Group 1-235,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1087,0,824
+1707037487054,1071,login,200,OK,Thread Group 1-236,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1071,0,811
+1707037487866,268,GetBooking,200,OK,Thread Group 1-215,text,true,,12895,186,67,67,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037487866,271,GetBooking,200,OK,Thread Group 1-214,text,true,,12895,186,66,66,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037487079,1066,login,200,OK,Thread Group 1-237,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1066,0,806
+1707037487870,275,CreateBooking,500,Internal Server Error,Thread Group 1-225,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037487870,275,CreateBooking,500,Internal Server Error,Thread Group 1-226,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037487884,267,GetBooking,200,OK,Thread Group 1-216,text,true,,12913,186,65,65,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037487888,264,CreateBooking,500,Internal Server Error,Thread Group 1-227,text,false,,791,424,64,64,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037487894,273,CreateBooking,500,Internal Server Error,Thread Group 1-228,text,false,,791,424,65,65,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037487104,1068,login,200,OK,Thread Group 1-238,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1068,0,805
+1707037487129,1050,login,200,OK,Thread Group 1-239,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1050,0,782
+1707037487923,271,GetBooking,200,OK,Thread Group 1-217,text,true,,12913,186,66,66,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037487154,1046,login,200,OK,Thread Group 1-240,text,true,,785,254,65,65,https://restful-booker.herokuapp.com/auth,1046,0,792
+1707037487953,262,CreateBooking,500,Internal Server Error,Thread Group 1-229,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037487972,263,GetBooking,200,OK,Thread Group 1-220,text,true,,12913,186,67,67,https://restful-booker.herokuapp.com/booking/,263,0,0
+1707037487982,269,GetBooking,200,OK,Thread Group 1-218,text,true,,12895,186,66,66,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037487203,1086,login,200,OK,Thread Group 1-242,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1086,0,820
+1707037487179,1110,login,200,OK,Thread Group 1-241,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1110,0,844
+1707037488032,260,CreateBooking,500,Internal Server Error,Thread Group 1-232,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037488028,265,CreateBooking,500,Internal Server Error,Thread Group 1-230,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037488033,271,CreateBooking,500,Internal Server Error,Thread Group 1-231,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037488034,274,GetBooking,200,OK,Thread Group 1-221,text,true,,12913,186,67,67,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037487257,1059,login,200,OK,Thread Group 1-244,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1059,0,788
+1707037488046,270,CreateBooking,500,Internal Server Error,Thread Group 1-234,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037487229,1089,login,200,OK,Thread Group 1-243,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1088,0,807
+1707037488031,288,GetBooking,200,OK,Thread Group 1-219,text,true,,12913,186,66,66,https://restful-booker.herokuapp.com/booking/,288,0,0
+1707037488054,269,CreateBooking,500,Internal Server Error,Thread Group 1-233,text,false,,791,424,66,66,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037487279,1061,login,200,OK,Thread Group 1-245,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1061,0,798
+1707037488062,281,GetBooking,200,OK,Thread Group 1-222,text,true,,12913,186,67,67,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037487303,1061,login,200,OK,Thread Group 1-246,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1061,0,800
+1707037488116,260,CreateBooking,500,Internal Server Error,Thread Group 1-235,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037488125,258,CreateBooking,500,Internal Server Error,Thread Group 1-236,text,false,,791,424,68,68,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037487329,1087,login,200,OK,Thread Group 1-247,text,true,,785,254,69,69,https://restful-booker.herokuapp.com/auth,1087,0,811
+1707037488145,271,CreateBooking,500,Internal Server Error,Thread Group 1-237,text,false,,791,424,69,69,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037487354,1063,login,200,OK,Thread Group 1-248,text,true,,785,254,69,69,https://restful-booker.herokuapp.com/auth,1063,0,795
+1707037488145,274,GetBooking,200,OK,Thread Group 1-225,text,true,,12913,186,69,69,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037488145,275,GetBooking,200,OK,Thread Group 1-226,text,true,,12913,186,69,69,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037488153,269,GetBooking,200,OK,Thread Group 1-227,text,true,,12913,186,67,67,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037488172,262,CreateBooking,500,Internal Server Error,Thread Group 1-238,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037488180,254,CreateBooking,500,Internal Server Error,Thread Group 1-239,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,254,0,0
+1707037488167,268,GetBooking,200,OK,Thread Group 1-228,text,true,,12931,186,67,67,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037487380,1063,login,200,OK,Thread Group 1-249,text,true,,785,254,66,66,https://restful-booker.herokuapp.com/auth,1063,0,802
+1707037487404,1056,login,200,OK,Thread Group 1-250,text,true,,785,254,67,67,https://restful-booker.herokuapp.com/auth,1056,0,788
+1707037488201,259,CreateBooking,500,Internal Server Error,Thread Group 1-240,text,false,,791,424,67,67,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037488215,266,GetBooking,200,OK,Thread Group 1-229,text,true,,12949,186,67,67,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037488290,258,CreateBooking,500,Internal Server Error,Thread Group 1-241,text,false,,791,424,69,69,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037488290,259,CreateBooking,500,Internal Server Error,Thread Group 1-242,text,false,,791,424,69,69,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037487462,1097,login,200,OK,Thread Group 1-252,text,true,,785,254,70,70,https://restful-booker.herokuapp.com/auth,1097,0,828
+1707037488292,269,GetBooking,200,OK,Thread Group 1-232,text,true,,12949,186,70,70,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037488293,269,GetBooking,200,OK,Thread Group 1-230,text,true,,12949,186,69,69,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037488317,264,CreateBooking,500,Internal Server Error,Thread Group 1-244,text,false,,791,424,69,69,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037488317,281,GetBooking,200,OK,Thread Group 1-234,text,true,,12937,186,69,69,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037488305,293,GetBooking,200,OK,Thread Group 1-231,text,true,,12937,186,69,69,https://restful-booker.herokuapp.com/booking/,293,0,0
+1707037487480,1119,login,200,OK,Thread Group 1-253,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1119,0,826
+1707037488318,281,CreateBooking,500,Internal Server Error,Thread Group 1-243,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037487460,1140,login,200,OK,Thread Group 1-251,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1140,0,858
+1707037487504,1097,login,200,OK,Thread Group 1-254,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1097,0,814
+1707037488324,283,GetBooking,200,OK,Thread Group 1-233,text,true,,12937,186,68,68,https://restful-booker.herokuapp.com/booking/,283,0,0
+1707037488340,277,CreateBooking,500,Internal Server Error,Thread Group 1-245,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,277,0,0
+1707037487554,1064,login,200,OK,Thread Group 1-256,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1064,0,793
+1707037487529,1090,login,200,OK,Thread Group 1-255,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1090,0,811
+1707037488364,274,CreateBooking,500,Internal Server Error,Thread Group 1-246,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037488108,536,GetBooking,200,OK,Thread Group 1-224,text,true,,12913,186,68,68,https://restful-booker.herokuapp.com/booking/,536,0,0
+1707037487579,1067,login,200,OK,Thread Group 1-257,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1067,0,799
+1707037488377,271,GetBooking,200,OK,Thread Group 1-235,text,true,,12955,186,67,67,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037488384,268,GetBooking,200,OK,Thread Group 1-236,text,true,,12955,186,66,66,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037488417,336,CreateBooking,500,Internal Server Error,Thread Group 1-247,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,336,0,0
+1707037488418,336,CreateBooking,500,Internal Server Error,Thread Group 1-248,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,336,0,0
+1707037487631,1128,login,200,OK,Thread Group 1-259,text,true,,773,254,70,70,https://restful-booker.herokuapp.com/auth,1128,0,792
+1707037488417,343,GetBooking,200,OK,Thread Group 1-237,text,true,,12955,186,70,70,https://restful-booker.herokuapp.com/booking/,343,0,0
+1707037487818,942,GetBooking,200,OK,Thread Group 1-213,text,true,,12895,186,70,70,https://restful-booker.herokuapp.com/booking/,942,0,0
+1707037487605,1156,login,200,OK,Thread Group 1-258,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1156,0,821
+1707037488434,335,GetBooking,200,OK,Thread Group 1-238,text,true,,12955,186,68,68,https://restful-booker.herokuapp.com/booking/,335,0,0
+1707037487653,1120,login,200,OK,Thread Group 1-260,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1120,0,790
+1707037488443,330,CreateBooking,500,Internal Server Error,Thread Group 1-249,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,330,0,0
+1707037488435,340,GetBooking,200,OK,Thread Group 1-239,text,true,,12973,186,67,67,https://restful-booker.herokuapp.com/booking/,340,0,0
+1707037488460,317,CreateBooking,500,Internal Server Error,Thread Group 1-250,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,316,0,0
+1707037488461,318,GetBooking,200,OK,Thread Group 1-240,text,true,,12973,186,66,66,https://restful-booker.herokuapp.com/booking/,318,0,0
+1707037487679,1102,login,200,OK,Thread Group 1-261,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1102,0,787
+1707037487732,1098,login,200,OK,Thread Group 1-263,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1098,0,793
+1707037487704,1126,login,200,OK,Thread Group 1-262,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1126,0,808
+1707037488549,294,GetBooking,200,OK,Thread Group 1-242,text,true,,12955,186,68,68,https://restful-booker.herokuapp.com/booking/,294,0,0
+1707037488559,288,CreateBooking,500,Internal Server Error,Thread Group 1-252,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,288,0,0
+1707037488549,299,GetBooking,200,OK,Thread Group 1-241,text,true,,12955,186,67,67,https://restful-booker.herokuapp.com/booking/,299,0,0
+1707037487779,1073,login,200,OK,Thread Group 1-265,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1073,0,802
+1707037487758,1103,login,200,OK,Thread Group 1-264,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1103,0,823
+1707037488582,280,GetBooking,200,OK,Thread Group 1-244,text,true,,12955,186,67,67,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037488600,296,CreateBooking,500,Internal Server Error,Thread Group 1-251,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,296,0,0
+1707037488599,297,CreateBooking,500,Internal Server Error,Thread Group 1-253,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,297,0,0
+1707037488601,295,CreateBooking,500,Internal Server Error,Thread Group 1-254,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,295,0,0
+1707037488599,299,GetBooking,200,OK,Thread Group 1-243,text,true,,12955,186,67,67,https://restful-booker.herokuapp.com/booking/,299,0,0
+1707037488618,281,CreateBooking,500,Internal Server Error,Thread Group 1-256,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037488081,819,GetBooking,200,OK,Thread Group 1-223,text,true,,12913,186,66,66,https://restful-booker.herokuapp.com/booking/,819,0,0
+1707037487803,1098,login,200,OK,Thread Group 1-266,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1098,0,813
+1707037487830,1081,login,200,OK,Thread Group 1-267,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1081,0,799
+1707037488619,292,CreateBooking,500,Internal Server Error,Thread Group 1-255,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,292,0,0
+1707037488617,296,GetBooking,200,OK,Thread Group 1-245,text,true,,12973,186,66,66,https://restful-booker.herokuapp.com/booking/,296,0,0
+1707037487854,1081,login,200,OK,Thread Group 1-268,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1081,0,799
+1707037488646,289,CreateBooking,500,Internal Server Error,Thread Group 1-257,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,289,0,0
+1707037488638,299,GetBooking,200,OK,Thread Group 1-246,text,true,,12973,186,66,66,https://restful-booker.herokuapp.com/booking/,299,0,0
+1707037488773,288,CreateBooking,500,Internal Server Error,Thread Group 1-260,text,false,,779,424,70,70,https://restful-booker.herokuapp.com/booking,288,0,0
+1707037488754,310,GetBooking,200,OK,Thread Group 1-248,text,true,,12991,186,70,70,https://restful-booker.herokuapp.com/booking/,310,0,0
+1707037487879,1195,login,200,OK,Thread Group 1-269,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1195,0,874
+1707037488761,314,CreateBooking,500,Internal Server Error,Thread Group 1-258,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,314,0,0
+1707037488760,317,CreateBooking,500,Internal Server Error,Thread Group 1-259,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,317,0,0
+1707037487903,1191,login,200,OK,Thread Group 1-270,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1191,0,859
+1707037488777,318,GetBooking,200,OK,Thread Group 1-250,text,true,,12991,186,69,69,https://restful-booker.herokuapp.com/booking/,318,0,0
+1707037487929,1166,login,200,OK,Thread Group 1-271,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1166,0,849
+1707037488754,341,GetBooking,200,OK,Thread Group 1-247,text,true,,12991,186,69,69,https://restful-booker.herokuapp.com/booking/,341,0,0
+1707037487954,1142,login,200,OK,Thread Group 1-272,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1142,0,828
+1707037488781,315,CreateBooking,500,Internal Server Error,Thread Group 1-261,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,315,0,0
+1707037488773,325,GetBooking,200,OK,Thread Group 1-249,text,true,,12991,186,68,68,https://restful-booker.herokuapp.com/booking/,325,0,0
+1707037487978,1122,login,200,OK,Thread Group 1-273,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1122,0,852
+1707037488004,1099,login,200,OK,Thread Group 1-274,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1099,0,826
+1707037488830,274,CreateBooking,500,Internal Server Error,Thread Group 1-263,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037488831,275,CreateBooking,500,Internal Server Error,Thread Group 1-262,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037488853,273,CreateBooking,500,Internal Server Error,Thread Group 1-265,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,272,0,0
+1707037488848,280,GetBooking,200,OK,Thread Group 1-252,text,true,,12991,186,68,68,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037488861,275,CreateBooking,500,Internal Server Error,Thread Group 1-264,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,275,0,0
+1707037488911,259,CreateBooking,500,Internal Server Error,Thread Group 1-267,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037488900,275,GetBooking,200,OK,Thread Group 1-256,text,true,,13009,186,69,69,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037488053,1128,login,200,OK,Thread Group 1-276,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1128,0,845
+1707037488080,1101,login,200,OK,Thread Group 1-277,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1101,0,819
+1707037488037,1145,login,200,OK,Thread Group 1-275,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1145,0,863
+1707037488901,281,CreateBooking,500,Internal Server Error,Thread Group 1-266,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037488896,288,GetBooking,200,OK,Thread Group 1-253,text,true,,13009,186,69,69,https://restful-booker.herokuapp.com/booking/,288,0,0
+1707037488896,288,GetBooking,200,OK,Thread Group 1-254,text,true,,13009,186,69,69,https://restful-booker.herokuapp.com/booking/,288,0,0
+1707037488897,289,GetBooking,200,OK,Thread Group 1-251,text,true,,13009,186,67,67,https://restful-booker.herokuapp.com/booking/,289,0,0
+1707037488912,274,GetBooking,200,OK,Thread Group 1-255,text,true,,13009,186,67,67,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037488104,1083,login,200,OK,Thread Group 1-278,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1083,0,822
+1707037488129,1068,login,200,OK,Thread Group 1-279,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1068,0,806
+1707037488935,262,CreateBooking,500,Internal Server Error,Thread Group 1-268,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037488936,270,GetBooking,200,OK,Thread Group 1-257,text,true,,13045,186,66,66,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037488153,1184,login,200,OK,Thread Group 1-280,text,true,,773,254,70,70,https://restful-booker.herokuapp.com/auth,1184,0,908
+1707037489075,262,CreateBooking,500,Internal Server Error,Thread Group 1-269,text,false,,779,424,70,70,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037488179,1159,login,200,OK,Thread Group 1-281,text,true,,773,254,70,70,https://restful-booker.herokuapp.com/auth,1159,0,884
+1707037489062,277,GetBooking,200,OK,Thread Group 1-260,text,true,,13063,186,70,70,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037488205,1135,login,200,OK,Thread Group 1-282,text,true,,773,254,69,69,https://restful-booker.herokuapp.com/auth,1135,0,860
+1707037489075,269,GetBooking,200,OK,Thread Group 1-258,text,true,,13063,186,69,69,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037489100,255,CreateBooking,500,Internal Server Error,Thread Group 1-273,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,255,0,0
+1707037489077,280,GetBooking,200,OK,Thread Group 1-259,text,true,,13063,186,69,69,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037489095,263,CreateBooking,500,Internal Server Error,Thread Group 1-271,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037489094,264,CreateBooking,500,Internal Server Error,Thread Group 1-270,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037489104,261,CreateBooking,500,Internal Server Error,Thread Group 1-274,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037489096,269,CreateBooking,500,Internal Server Error,Thread Group 1-272,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037489105,266,GetBooking,200,OK,Thread Group 1-263,text,true,,13063,186,68,68,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037488230,1160,login,200,OK,Thread Group 1-283,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1160,0,880
+1707037488254,1137,login,200,OK,Thread Group 1-284,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1137,0,856
+1707037489096,296,GetBooking,200,OK,Thread Group 1-261,text,true,,13063,186,67,67,https://restful-booker.herokuapp.com/booking/,296,0,0
+1707037489107,285,GetBooking,200,OK,Thread Group 1-262,text,true,,13081,186,67,67,https://restful-booker.herokuapp.com/booking/,285,0,0
+1707037488280,1114,login,200,OK,Thread Group 1-285,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1114,0,847
+1707037489137,264,GetBooking,200,OK,Thread Group 1-264,text,true,,13081,186,66,66,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037488320,1095,login,200,OK,Thread Group 1-286,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1095,0,830
+1707037489126,295,GetBooking,200,OK,Thread Group 1-265,text,true,,13081,186,66,66,https://restful-booker.herokuapp.com/booking/,295,0,0
+1707037488328,1097,login,200,OK,Thread Group 1-287,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1097,0,838
+1707037489170,271,GetBooking,200,OK,Thread Group 1-267,text,true,,13081,186,66,66,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037489181,264,CreateBooking,500,Internal Server Error,Thread Group 1-276,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037489181,264,CreateBooking,500,Internal Server Error,Thread Group 1-277,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037488379,1068,login,200,OK,Thread Group 1-289,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1068,0,808
+1707037488354,1095,login,200,OK,Thread Group 1-288,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1095,0,828
+1707037489187,262,CreateBooking,500,Internal Server Error,Thread Group 1-278,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037489182,267,CreateBooking,500,Internal Server Error,Thread Group 1-275,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037489182,271,GetBooking,200,OK,Thread Group 1-266,text,true,,13081,186,65,65,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037489198,269,CreateBooking,500,Internal Server Error,Thread Group 1-279,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037489198,271,GetBooking,200,OK,Thread Group 1-268,text,true,,13081,186,65,65,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037489337,260,CreateBooking,500,Internal Server Error,Thread Group 1-280,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037489339,259,CreateBooking,500,Internal Server Error,Thread Group 1-281,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037488403,1202,login,200,OK,Thread Group 1-290,text,true,,773,254,70,70,https://restful-booker.herokuapp.com/auth,1202,0,933
+1707037489338,270,GetBooking,200,OK,Thread Group 1-269,text,true,,13099,186,70,70,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037489340,270,CreateBooking,500,Internal Server Error,Thread Group 1-282,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037489355,263,GetBooking,200,OK,Thread Group 1-273,text,true,,13099,186,69,69,https://restful-booker.herokuapp.com/booking/,263,0,0
+1707037488505,1114,login,200,OK,Thread Group 1-294,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1114,0,849
+1707037488482,1137,login,200,OK,Thread Group 1-293,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1137,0,872
+1707037489365,261,GetBooking,200,OK,Thread Group 1-274,text,true,,13099,186,68,68,https://restful-booker.herokuapp.com/booking/,261,0,0
+1707037488429,1201,login,200,OK,Thread Group 1-291,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1201,0,929
+1707037489359,272,GetBooking,200,OK,Thread Group 1-271,text,true,,13099,186,67,67,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037488453,1178,login,200,OK,Thread Group 1-292,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1178,0,911
+1707037489359,274,GetBooking,200,OK,Thread Group 1-270,text,true,,13099,186,67,67,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037489365,283,GetBooking,200,OK,Thread Group 1-272,text,true,,13099,186,66,66,https://restful-booker.herokuapp.com/booking/,283,0,0
+1707037489391,265,CreateBooking,500,Internal Server Error,Thread Group 1-284,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037488530,1128,login,200,OK,Thread Group 1-295,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1128,0,860
+1707037489390,268,CreateBooking,500,Internal Server Error,Thread Group 1-283,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037489394,265,CreateBooking,500,Internal Server Error,Thread Group 1-285,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037488555,1114,login,200,OK,Thread Group 1-296,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1114,0,836
+1707037488580,1089,login,200,OK,Thread Group 1-297,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1089,0,818
+1707037489415,263,CreateBooking,500,Internal Server Error,Thread Group 1-286,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037489425,256,CreateBooking,500,Internal Server Error,Thread Group 1-287,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,256,0,0
+1707037488604,1079,login,200,OK,Thread Group 1-298,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1079,0,816
+1707037488634,1057,login,200,OK,Thread Group 1-299,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1057,0,800
+1707037489447,260,CreateBooking,500,Internal Server Error,Thread Group 1-289,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037489445,264,GetBooking,200,OK,Thread Group 1-276,text,true,,13081,186,68,68,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037489446,266,GetBooking,200,OK,Thread Group 1-277,text,true,,13081,186,67,67,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037489449,265,CreateBooking,500,Internal Server Error,Thread Group 1-288,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037489449,274,GetBooking,200,OK,Thread Group 1-278,text,true,,13081,186,66,66,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037489449,277,GetBooking,200,OK,Thread Group 1-275,text,true,,13081,186,65,65,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037488655,1085,login,200,OK,Thread Group 1-300,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1085,0,817
+1707037489468,274,GetBooking,200,OK,Thread Group 1-279,text,true,,13081,186,65,65,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037488680,1064,login,200,OK,Thread Group 1-301,text,true,,773,254,64,64,https://restful-booker.herokuapp.com/auth,1064,0,803
+1707037488704,1060,login,200,OK,Thread Group 1-302,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1060,0,791
+1707037488729,1094,login,200,OK,Thread Group 1-303,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1094,0,807
+1707037489599,267,GetBooking,200,OK,Thread Group 1-281,text,true,,13099,186,69,69,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037488784,1084,login,200,OK,Thread Group 1-305,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1084,0,823
+1707037489606,262,CreateBooking,500,Internal Server Error,Thread Group 1-290,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037489598,273,GetBooking,200,OK,Thread Group 1-280,text,true,,13099,186,68,68,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037489610,267,GetBooking,200,OK,Thread Group 1-282,text,true,,13099,186,67,67,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037489619,266,CreateBooking,500,Internal Server Error,Thread Group 1-293,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037488804,1082,login,200,OK,Thread Group 1-306,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1082,0,817
+1707037488755,1132,login,200,OK,Thread Group 1-304,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1132,0,859
+1707037489619,267,CreateBooking,500,Internal Server Error,Thread Group 1-294,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037488829,1061,login,200,OK,Thread Group 1-307,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1061,0,804
+1707037489631,264,CreateBooking,500,Internal Server Error,Thread Group 1-292,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037489630,265,CreateBooking,500,Internal Server Error,Thread Group 1-291,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037489657,264,GetBooking,200,OK,Thread Group 1-284,text,true,,13118,186,68,68,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037489658,268,CreateBooking,500,Internal Server Error,Thread Group 1-295,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037489660,272,GetBooking,200,OK,Thread Group 1-285,text,true,,13118,186,68,68,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037488854,1086,login,200,OK,Thread Group 1-308,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1086,0,819
+1707037489669,271,CreateBooking,500,Internal Server Error,Thread Group 1-297,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037489669,271,CreateBooking,500,Internal Server Error,Thread Group 1-296,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037488880,1061,login,200,OK,Thread Group 1-309,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1061,0,792
+1707037489658,285,GetBooking,200,OK,Thread Group 1-283,text,true,,13118,186,67,67,https://restful-booker.herokuapp.com/booking/,285,0,0
+1707037489683,264,CreateBooking,500,Internal Server Error,Thread Group 1-298,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037489679,270,GetBooking,200,OK,Thread Group 1-286,text,true,,13118,186,66,66,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037489682,268,GetBooking,200,OK,Thread Group 1-287,text,true,,13118,186,65,65,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037488904,1051,login,200,OK,Thread Group 1-310,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1051,0,785
+1707037489692,263,CreateBooking,500,Internal Server Error,Thread Group 1-299,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037489707,272,GetBooking,200,OK,Thread Group 1-289,text,true,,13118,186,66,66,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037489714,293,GetBooking,200,OK,Thread Group 1-288,text,true,,13118,186,66,66,https://restful-booker.herokuapp.com/booking/,293,0,0
+1707037488929,1089,login,200,OK,Thread Group 1-311,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1089,0,811
+1707037489744,274,CreateBooking,500,Internal Server Error,Thread Group 1-301,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037489741,277,CreateBooking,500,Internal Server Error,Thread Group 1-300,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,277,0,0
+1707037488953,1066,login,200,OK,Thread Group 1-312,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1066,0,795
+1707037489764,259,CreateBooking,500,Internal Server Error,Thread Group 1-302,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037488978,1068,login,200,OK,Thread Group 1-313,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1068,0,810
+1707037489004,1065,login,200,OK,Thread Group 1-314,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1065,0,807
+1707037489028,1060,login,200,OK,Thread Group 1-315,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1060,0,795
+1707037489824,271,CreateBooking,500,Internal Server Error,Thread Group 1-303,text,false,,779,424,68,68,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037489054,1042,login,200,OK,Thread Group 1-316,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1042,0,781
+1707037489868,266,CreateBooking,500,Internal Server Error,Thread Group 1-305,text,false,,779,424,70,70,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037489868,268,GetBooking,200,OK,Thread Group 1-290,text,true,,13137,186,70,70,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037489887,257,CreateBooking,500,Internal Server Error,Thread Group 1-306,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,257,0,0
+1707037489887,262,CreateBooking,500,Internal Server Error,Thread Group 1-304,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037489886,266,GetBooking,200,OK,Thread Group 1-293,text,true,,13137,186,69,69,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037489891,261,CreateBooking,500,Internal Server Error,Thread Group 1-307,text,false,,779,424,69,69,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037489887,267,GetBooking,200,OK,Thread Group 1-294,text,true,,13137,186,69,69,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037489098,1063,login,200,OK,Thread Group 1-317,text,true,,773,254,68,68,https://restful-booker.herokuapp.com/auth,1063,0,799
+1707037489896,267,GetBooking,200,OK,Thread Group 1-291,text,true,,13137,186,68,68,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037489895,269,GetBooking,200,OK,Thread Group 1-292,text,true,,13137,186,67,67,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037489104,1075,login,200,OK,Thread Group 1-318,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1075,0,806
+1707037489130,1050,login,200,OK,Thread Group 1-319,text,true,,773,254,67,67,https://restful-booker.herokuapp.com/auth,1050,0,793
+1707037489927,264,GetBooking,200,OK,Thread Group 1-295,text,true,,13137,186,67,67,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037489940,260,CreateBooking,500,Internal Server Error,Thread Group 1-308,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037489941,263,CreateBooking,500,Internal Server Error,Thread Group 1-309,text,false,,779,424,67,67,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037489940,277,GetBooking,200,OK,Thread Group 1-296,text,true,,13137,186,67,67,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037489940,280,GetBooking,200,OK,Thread Group 1-297,text,true,,13137,186,66,66,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037489153,1078,login,200,OK,Thread Group 1-320,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1078,0,795
+1707037489947,291,GetBooking,200,OK,Thread Group 1-298,text,true,,13137,186,66,66,https://restful-booker.herokuapp.com/booking/,291,0,0
+1707037489955,320,CreateBooking,500,Internal Server Error,Thread Group 1-310,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,320,0,0
+1707037489202,1074,login,200,OK,Thread Group 1-322,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1074,0,803
+1707037489956,327,GetBooking,200,OK,Thread Group 1-299,text,true,,13137,186,67,67,https://restful-booker.herokuapp.com/booking/,327,0,0
+1707037489180,1105,login,200,OK,Thread Group 1-321,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1105,0,823
+1707037490020,267,CreateBooking,500,Internal Server Error,Thread Group 1-312,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037490019,268,CreateBooking,500,Internal Server Error,Thread Group 1-311,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037489228,1060,login,200,OK,Thread Group 1-323,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1060,0,793
+1707037490019,281,GetBooking,200,OK,Thread Group 1-301,text,true,,13137,186,66,66,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037490024,276,GetBooking,200,OK,Thread Group 1-302,text,true,,13137,186,65,65,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037490019,285,GetBooking,200,OK,Thread Group 1-300,text,true,,13137,186,64,64,https://restful-booker.herokuapp.com/booking/,285,0,0
+1707037490046,266,CreateBooking,500,Internal Server Error,Thread Group 1-313,text,false,,779,424,64,64,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037490069,258,CreateBooking,500,Internal Server Error,Thread Group 1-314,text,false,,779,424,64,64,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037489253,1081,login,200,OK,Thread Group 1-324,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1081,0,826
+1707037490096,263,CreateBooking,500,Internal Server Error,Thread Group 1-316,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037489306,1054,login,200,OK,Thread Group 1-326,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1054,0,789
+1707037490088,272,CreateBooking,500,Internal Server Error,Thread Group 1-315,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,272,0,0
+1707037489329,1032,login,200,OK,Thread Group 1-327,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1032,0,774
+1707037489280,1081,login,200,OK,Thread Group 1-325,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1081,0,818
+1707037490096,268,GetBooking,200,OK,Thread Group 1-303,text,true,,13175,186,66,66,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037489356,1041,login,200,OK,Thread Group 1-328,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1041,0,785
+1707037490134,264,GetBooking,200,OK,Thread Group 1-305,text,true,,13156,186,66,66,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037490145,264,GetBooking,200,OK,Thread Group 1-306,text,true,,13156,186,66,66,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037490149,276,GetBooking,200,OK,Thread Group 1-304,text,true,,13156,186,65,65,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037490152,273,GetBooking,200,OK,Thread Group 1-307,text,true,,13156,186,65,65,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037490161,265,CreateBooking,500,Internal Server Error,Thread Group 1-317,text,false,,779,424,63,63,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037490180,261,CreateBooking,500,Internal Server Error,Thread Group 1-319,text,false,,779,424,64,64,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037490179,262,CreateBooking,500,Internal Server Error,Thread Group 1-318,text,false,,779,424,64,64,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037490200,258,GetBooking,200,OK,Thread Group 1-308,text,true,,13156,186,65,65,https://restful-booker.herokuapp.com/booking/,258,0,0
+1707037489394,1069,login,200,OK,Thread Group 1-329,text,true,,773,254,64,64,https://restful-booker.herokuapp.com/auth,1069,0,804
+1707037490205,262,GetBooking,200,OK,Thread Group 1-309,text,true,,13156,186,64,64,https://restful-booker.herokuapp.com/booking/,262,0,0
+1707037490231,257,CreateBooking,500,Internal Server Error,Thread Group 1-320,text,false,,779,424,64,64,https://restful-booker.herokuapp.com/booking,257,0,0
+1707037489479,1047,login,200,OK,Thread Group 1-333,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1047,0,793
+1707037489404,1129,login,200,OK,Thread Group 1-330,text,true,,773,254,66,66,https://restful-booker.herokuapp.com/auth,1129,0,867
+1707037490276,260,CreateBooking,500,Internal Server Error,Thread Group 1-322,text,false,,779,424,66,66,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037490275,262,GetBooking,200,OK,Thread Group 1-310,text,true,,13175,186,66,66,https://restful-booker.herokuapp.com/booking/,262,0,0
+1707037490286,259,CreateBooking,500,Internal Server Error,Thread Group 1-321,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037489429,1116,login,200,OK,Thread Group 1-331,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1116,0,851
+1707037489454,1097,login,200,OK,Thread Group 1-332,text,true,,773,254,65,65,https://restful-booker.herokuapp.com/auth,1097,0,831
+1707037490287,274,GetBooking,200,OK,Thread Group 1-311,text,true,,13175,186,66,66,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037490287,275,GetBooking,200,OK,Thread Group 1-312,text,true,,13175,186,65,65,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037490288,274,CreateBooking,500,Internal Server Error,Thread Group 1-323,text,false,,779,424,65,65,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037490313,264,GetBooking,200,OK,Thread Group 1-313,text,true,,13179,186,64,64,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037489505,1087,login,200,OK,Thread Group 1-334,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1087,0,817
+1707037490334,259,CreateBooking,500,Internal Server Error,Thread Group 1-324,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037490327,267,GetBooking,200,OK,Thread Group 1-314,text,true,,13198,186,64,64,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037489530,1069,login,200,OK,Thread Group 1-335,text,true,,777,254,63,63,https://restful-booker.herokuapp.com/auth,1069,0,810
+1707037489554,1055,login,200,OK,Thread Group 1-336,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1055,0,798
+1707037490361,257,CreateBooking,500,Internal Server Error,Thread Group 1-327,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,257,0,0
+1707037490360,259,CreateBooking,500,Internal Server Error,Thread Group 1-326,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037490361,270,CreateBooking,500,Internal Server Error,Thread Group 1-325,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037490360,272,GetBooking,200,OK,Thread Group 1-316,text,true,,13198,186,65,65,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037490360,273,GetBooking,200,OK,Thread Group 1-315,text,true,,13198,186,64,64,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037489578,1057,login,200,OK,Thread Group 1-337,text,true,,777,254,63,63,https://restful-booker.herokuapp.com/auth,1057,0,796
+1707037489605,1042,login,200,OK,Thread Group 1-338,text,true,,777,254,63,63,https://restful-booker.herokuapp.com/auth,1042,0,784
+1707037490397,255,CreateBooking,500,Internal Server Error,Thread Group 1-328,text,false,,783,424,63,63,https://restful-booker.herokuapp.com/booking,255,0,0
+1707037489632,1067,login,200,OK,Thread Group 1-339,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1067,0,794
+1707037489654,1046,login,200,OK,Thread Group 1-340,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1046,0,786
+1707037490427,276,GetBooking,200,OK,Thread Group 1-317,text,true,,13198,186,65,65,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037490441,266,GetBooking,200,OK,Thread Group 1-319,text,true,,13198,186,65,65,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037490441,268,GetBooking,200,OK,Thread Group 1-318,text,true,,13198,186,64,64,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037490463,262,CreateBooking,500,Internal Server Error,Thread Group 1-329,text,false,,783,424,63,63,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037489679,1051,login,200,OK,Thread Group 1-341,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1051,0,792
+1707037490488,261,GetBooking,200,OK,Thread Group 1-320,text,true,,13236,186,64,64,https://restful-booker.herokuapp.com/booking/,261,0,0
+1707037490526,262,CreateBooking,500,Internal Server Error,Thread Group 1-333,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037490533,260,CreateBooking,500,Internal Server Error,Thread Group 1-330,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037490536,263,GetBooking,200,OK,Thread Group 1-322,text,true,,13236,186,65,65,https://restful-booker.herokuapp.com/booking/,263,0,0
+1707037490546,265,CreateBooking,500,Internal Server Error,Thread Group 1-331,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037490551,262,CreateBooking,500,Internal Server Error,Thread Group 1-332,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037490545,270,GetBooking,200,OK,Thread Group 1-321,text,true,,13236,186,65,65,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037489704,1114,login,200,OK,Thread Group 1-342,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1114,0,854
+1707037489729,1096,login,200,OK,Thread Group 1-343,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1096,0,829
+1707037490562,273,GetBooking,200,OK,Thread Group 1-323,text,true,,13217,186,65,65,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037489754,1082,login,200,OK,Thread Group 1-344,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1082,0,820
+1707037489779,1066,login,200,OK,Thread Group 1-345,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1066,0,795
+1707037490593,261,GetBooking,200,OK,Thread Group 1-324,text,true,,13217,186,65,65,https://restful-booker.herokuapp.com/booking/,261,0,0
+1707037490592,263,CreateBooking,500,Internal Server Error,Thread Group 1-334,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037489803,1055,login,200,OK,Thread Group 1-346,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1055,0,795
+1707037490600,261,CreateBooking,500,Internal Server Error,Thread Group 1-335,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037490610,257,CreateBooking,500,Internal Server Error,Thread Group 1-336,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,257,0,0
+1707037489829,1051,login,200,OK,Thread Group 1-347,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1051,0,789
+1707037490618,268,GetBooking,200,OK,Thread Group 1-327,text,true,,13217,186,65,65,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037490619,276,GetBooking,200,OK,Thread Group 1-326,text,true,,13217,186,64,64,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037490635,269,CreateBooking,500,Internal Server Error,Thread Group 1-337,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037490631,274,GetBooking,200,OK,Thread Group 1-325,text,true,,13217,186,64,64,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037490647,264,CreateBooking,500,Internal Server Error,Thread Group 1-338,text,false,,783,424,63,63,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037489855,1056,login,200,OK,Thread Group 1-348,text,true,,777,254,63,63,https://restful-booker.herokuapp.com/auth,1056,0,792
+1707037490652,262,GetBooking,200,OK,Thread Group 1-328,text,true,,13217,186,63,63,https://restful-booker.herokuapp.com/booking/,262,0,0
+1707037489880,1069,login,200,OK,Thread Group 1-349,text,true,,777,254,63,63,https://restful-booker.herokuapp.com/auth,1069,0,803
+1707037489904,1059,login,200,OK,Thread Group 1-350,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1059,0,796
+1707037490700,263,CreateBooking,500,Internal Server Error,Thread Group 1-339,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037490701,262,CreateBooking,500,Internal Server Error,Thread Group 1-340,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037489930,1045,login,200,OK,Thread Group 1-351,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1045,0,784
+1707037490731,264,CreateBooking,500,Internal Server Error,Thread Group 1-341,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037490725,272,GetBooking,200,OK,Thread Group 1-329,text,true,,13236,186,65,65,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037489953,1110,login,200,OK,Thread Group 1-352,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1110,0,808
+1707037490789,279,GetBooking,200,OK,Thread Group 1-333,text,true,,13236,186,67,67,https://restful-booker.herokuapp.com/booking/,279,0,0
+1707037490793,289,GetBooking,200,OK,Thread Group 1-330,text,true,,13236,186,67,67,https://restful-booker.herokuapp.com/booking/,289,0,0
+1707037489979,1103,login,200,OK,Thread Group 1-353,text,true,,777,254,67,67,https://restful-booker.herokuapp.com/auth,1103,0,832
+1707037490813,272,GetBooking,200,OK,Thread Group 1-332,text,true,,13236,186,66,66,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037490008,1085,login,200,OK,Thread Group 1-354,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1085,0,813
+1707037490819,274,CreateBooking,500,Internal Server Error,Thread Group 1-342,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037490825,269,CreateBooking,500,Internal Server Error,Thread Group 1-343,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037490811,284,GetBooking,200,OK,Thread Group 1-331,text,true,,13236,186,65,65,https://restful-booker.herokuapp.com/booking/,284,0,0
+1707037490029,1075,login,200,OK,Thread Group 1-355,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1075,0,804
+1707037490836,268,CreateBooking,500,Internal Server Error,Thread Group 1-344,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037490054,1058,login,200,OK,Thread Group 1-356,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1058,0,795
+1707037490845,267,CreateBooking,500,Internal Server Error,Thread Group 1-345,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037490858,268,CreateBooking,500,Internal Server Error,Thread Group 1-346,text,false,,783,424,65,65,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037490856,272,GetBooking,200,OK,Thread Group 1-334,text,true,,13236,186,66,66,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037490081,1048,login,200,OK,Thread Group 1-357,text,true,,777,254,65,65,https://restful-booker.herokuapp.com/auth,1048,0,786
+1707037490862,270,GetBooking,200,OK,Thread Group 1-335,text,true,,13236,186,65,65,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037490880,261,CreateBooking,500,Internal Server Error,Thread Group 1-347,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037490868,276,GetBooking,200,OK,Thread Group 1-336,text,true,,13236,186,64,64,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037490911,262,CreateBooking,500,Internal Server Error,Thread Group 1-348,text,false,,783,424,64,64,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037490104,1074,login,200,OK,Thread Group 1-358,text,true,,777,254,64,64,https://restful-booker.herokuapp.com/auth,1074,0,807
+1707037490911,268,GetBooking,200,OK,Thread Group 1-338,text,true,,13236,186,64,64,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037490905,275,GetBooking,200,OK,Thread Group 1-337,text,true,,13236,186,64,64,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037490129,1071,login,200,OK,Thread Group 1-359,text,true,,777,254,62,62,https://restful-booker.herokuapp.com/auth,1071,0,801
+1707037490179,1048,login,200,OK,Thread Group 1-361,text,true,,777,254,62,62,https://restful-booker.herokuapp.com/auth,1048,0,788
+1707037490949,278,CreateBooking,500,Internal Server Error,Thread Group 1-349,text,false,,783,424,62,62,https://restful-booker.herokuapp.com/booking,278,0,0
+1707037490154,1090,login,200,OK,Thread Group 1-360,text,true,,777,254,62,62,https://restful-booker.herokuapp.com/auth,1090,0,809
+1707037490963,281,CreateBooking,500,Internal Server Error,Thread Group 1-350,text,false,,783,424,62,62,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037490964,281,GetBooking,200,OK,Thread Group 1-340,text,true,,13274,186,62,62,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037490963,284,GetBooking,200,OK,Thread Group 1-339,text,true,,13274,186,61,61,https://restful-booker.herokuapp.com/booking/,284,0,0
+1707037490975,273,CreateBooking,500,Internal Server Error,Thread Group 1-351,text,false,,783,424,60,60,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037490995,274,GetBooking,200,OK,Thread Group 1-341,text,true,,13274,186,60,60,https://restful-booker.herokuapp.com/booking/,274,0,0
+1707037490203,1102,login,200,OK,Thread Group 1-362,text,true,,777,254,59,59,https://restful-booker.herokuapp.com/auth,1102,0,806
+1707037490279,1065,login,200,OK,Thread Group 1-365,text,true,,777,254,59,59,https://restful-booker.herokuapp.com/auth,1065,0,802
+1707037490254,1090,login,200,OK,Thread Group 1-364,text,true,,777,254,59,59,https://restful-booker.herokuapp.com/auth,1090,0,815
+1707037491082,262,CreateBooking,500,Internal Server Error,Thread Group 1-353,text,false,,783,424,59,59,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037491063,282,CreateBooking,500,Internal Server Error,Thread Group 1-352,text,false,,783,424,59,59,https://restful-booker.herokuapp.com/booking,282,0,0
+1707037491093,271,CreateBooking,500,Internal Server Error,Thread Group 1-354,text,false,,783,424,59,59,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037491093,273,GetBooking,200,OK,Thread Group 1-342,text,true,,13274,186,59,59,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037490305,1074,login,200,OK,Thread Group 1-366,text,true,,777,254,58,58,https://restful-booker.herokuapp.com/auth,1074,0,800
+1707037491112,268,CreateBooking,500,Internal Server Error,Thread Group 1-356,text,false,,783,424,58,58,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037491105,276,CreateBooking,500,Internal Server Error,Thread Group 1-355,text,false,,783,424,58,58,https://restful-booker.herokuapp.com/booking,276,0,0
+1707037491112,270,GetBooking,200,OK,Thread Group 1-345,text,true,,13274,186,58,58,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037491105,279,GetBooking,200,OK,Thread Group 1-344,text,true,,13274,186,57,57,https://restful-booker.herokuapp.com/booking/,279,0,0
+1707037491129,269,CreateBooking,500,Internal Server Error,Thread Group 1-357,text,false,,783,424,56,56,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037490354,1045,login,200,OK,Thread Group 1-368,text,true,,777,254,56,56,https://restful-booker.herokuapp.com/auth,1045,0,787
+1707037490329,1102,login,200,OK,Thread Group 1-367,text,true,,777,254,56,56,https://restful-booker.herokuapp.com/auth,1102,0,812
+1707037491126,307,GetBooking,200,OK,Thread Group 1-346,text,true,,13274,186,56,56,https://restful-booker.herokuapp.com/booking/,307,0,0
+1707037491141,295,GetBooking,200,OK,Thread Group 1-347,text,true,,13293,186,55,55,https://restful-booker.herokuapp.com/booking/,295,0,0
+1707037490379,1069,login,200,OK,Thread Group 1-369,text,true,,777,254,54,54,https://restful-booker.herokuapp.com/auth,1069,0,802
+1707037491178,270,CreateBooking,500,Internal Server Error,Thread Group 1-358,text,false,,783,424,54,54,https://restful-booker.herokuapp.com/booking,270,0,0
+1707037491174,276,GetBooking,200,OK,Thread Group 1-348,text,true,,13331,186,54,54,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037490405,1053,login,200,OK,Thread Group 1-370,text,true,,777,254,53,53,https://restful-booker.herokuapp.com/auth,1053,0,796
+1707037491200,259,CreateBooking,500,Internal Server Error,Thread Group 1-359,text,false,,783,424,53,53,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037490429,1051,login,200,OK,Thread Group 1-371,text,true,,777,254,53,53,https://restful-booker.herokuapp.com/auth,1051,0,794
+1707037491227,253,CreateBooking,500,Internal Server Error,Thread Group 1-361,text,false,,783,424,53,53,https://restful-booker.herokuapp.com/booking,253,0,0
+1707037491227,267,GetBooking,200,OK,Thread Group 1-349,text,true,,13331,186,53,53,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037491245,267,CreateBooking,500,Internal Server Error,Thread Group 1-360,text,false,,783,424,52,52,https://restful-booker.herokuapp.com/booking,267,0,0
+1707037491248,266,GetBooking,200,OK,Thread Group 1-351,text,true,,13331,186,52,52,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037491245,269,GetBooking,200,OK,Thread Group 1-350,text,true,,13331,186,52,52,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037490453,1063,login,200,OK,Thread Group 1-372,text,true,,777,254,50,50,https://restful-booker.herokuapp.com/auth,1063,0,799
+1707037490480,1083,login,200,OK,Thread Group 1-373,text,true,,777,254,50,50,https://restful-booker.herokuapp.com/auth,1083,0,826
+1707037491305,259,CreateBooking,500,Internal Server Error,Thread Group 1-362,text,false,,783,424,50,50,https://restful-booker.herokuapp.com/booking,259,0,0
+1707037490530,1071,login,200,OK,Thread Group 1-375,text,true,,777,254,50,50,https://restful-booker.herokuapp.com/auth,1071,0,806
+1707037491344,258,CreateBooking,500,Internal Server Error,Thread Group 1-365,text,false,,783,424,50,50,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037490506,1098,login,200,OK,Thread Group 1-374,text,true,,777,254,50,50,https://restful-booker.herokuapp.com/auth,1098,0,833
+1707037491344,264,CreateBooking,500,Internal Server Error,Thread Group 1-364,text,false,,783,424,50,50,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037491344,267,GetBooking,200,OK,Thread Group 1-353,text,true,,13312,186,50,50,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037490555,1058,login,200,OK,Thread Group 1-376,text,true,,777,254,49,49,https://restful-booker.herokuapp.com/auth,1058,0,802
+1707037490229,1395,login,200,OK,Thread Group 1-363,text,true,,777,254,49,49,https://restful-booker.herokuapp.com/auth,1395,0,1136
+1707037491345,281,GetBooking,200,OK,Thread Group 1-352,text,true,,13331,186,49,49,https://restful-booker.herokuapp.com/booking/,281,0,0
+1707037491365,266,GetBooking,200,OK,Thread Group 1-354,text,true,,13331,186,48,48,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037490580,1059,login,200,OK,Thread Group 1-377,text,true,,777,254,47,47,https://restful-booker.herokuapp.com/auth,1059,0,802
+1707037491094,549,GetBooking,200,OK,Thread Group 1-343,text,true,,13274,186,47,47,https://restful-booker.herokuapp.com/booking/,549,0,0
+1707037491379,268,CreateBooking,500,Internal Server Error,Thread Group 1-366,text,false,,783,424,46,46,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037491380,268,GetBooking,200,OK,Thread Group 1-356,text,true,,13331,186,46,46,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037491381,272,GetBooking,200,OK,Thread Group 1-355,text,true,,13331,186,45,45,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037490604,1056,login,200,OK,Thread Group 1-378,text,true,,777,254,44,44,https://restful-booker.herokuapp.com/auth,1056,0,795
+1707037491398,263,GetBooking,200,OK,Thread Group 1-357,text,true,,13350,186,44,44,https://restful-booker.herokuapp.com/booking/,263,0,0
+1707037491399,271,CreateBooking,500,Internal Server Error,Thread Group 1-368,text,false,,783,424,43,43,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037491431,271,CreateBooking,500,Internal Server Error,Thread Group 1-367,text,false,,783,424,43,43,https://restful-booker.herokuapp.com/booking,271,0,0
+1707037490630,1075,login,200,OK,Thread Group 1-379,text,true,,777,254,43,43,https://restful-booker.herokuapp.com/auth,1075,0,804
+1707037491448,263,CreateBooking,500,Internal Server Error,Thread Group 1-369,text,false,,783,424,43,43,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037490655,1061,login,200,OK,Thread Group 1-380,text,true,,777,254,43,43,https://restful-booker.herokuapp.com/auth,1061,0,803
+1707037491448,269,GetBooking,200,OK,Thread Group 1-358,text,true,,13331,186,43,43,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037491458,264,CreateBooking,500,Internal Server Error,Thread Group 1-370,text,false,,783,424,42,42,https://restful-booker.herokuapp.com/booking,264,0,0
+1707037491459,268,GetBooking,200,OK,Thread Group 1-359,text,true,,13331,186,42,42,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037490679,1054,login,200,OK,Thread Group 1-381,text,true,,777,254,41,41,https://restful-booker.herokuapp.com/auth,1054,0,796
+1707037491481,257,GetBooking,200,OK,Thread Group 1-361,text,true,,13331,186,41,41,https://restful-booker.herokuapp.com/booking/,257,0,0
+1707037491481,258,CreateBooking,500,Internal Server Error,Thread Group 1-371,text,false,,783,424,40,40,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037490707,1049,login,200,OK,Thread Group 1-382,text,true,,777,254,40,40,https://restful-booker.herokuapp.com/auth,1049,0,791
+1707037491516,268,CreateBooking,500,Internal Server Error,Thread Group 1-372,text,false,,783,424,40,40,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037491513,273,GetBooking,200,OK,Thread Group 1-360,text,true,,13350,186,40,40,https://restful-booker.herokuapp.com/booking/,273,0,0
+1707037490731,1090,login,200,OK,Thread Group 1-383,text,true,,777,254,39,39,https://restful-booker.herokuapp.com/auth,1090,0,826
+1707037490754,1067,login,200,OK,Thread Group 1-384,text,true,,777,254,39,39,https://restful-booker.herokuapp.com/auth,1067,0,804
+1707037491563,265,CreateBooking,500,Internal Server Error,Thread Group 1-373,text,false,,783,424,39,39,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037491564,267,GetBooking,200,OK,Thread Group 1-362,text,true,,13350,186,39,39,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037491601,255,CreateBooking,500,Internal Server Error,Thread Group 1-375,text,false,,783,424,38,38,https://restful-booker.herokuapp.com/booking,255,0,0
+1707037491604,261,CreateBooking,500,Internal Server Error,Thread Group 1-374,text,false,,783,424,38,38,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037491602,264,GetBooking,200,OK,Thread Group 1-365,text,true,,13369,186,38,38,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037490778,1093,login,200,OK,Thread Group 1-385,text,true,,777,254,37,37,https://restful-booker.herokuapp.com/auth,1093,0,830
+1707037491613,258,CreateBooking,500,Internal Server Error,Thread Group 1-376,text,false,,783,424,37,37,https://restful-booker.herokuapp.com/booking,258,0,0
+1707037490803,1076,login,200,OK,Thread Group 1-386,text,true,,777,254,37,37,https://restful-booker.herokuapp.com/auth,1076,0,811
+1707037491609,271,GetBooking,200,OK,Thread Group 1-364,text,true,,13369,186,37,37,https://restful-booker.herokuapp.com/booking/,271,0,0
+1707037491625,266,CreateBooking,500,Internal Server Error,Thread Group 1-363,text,false,,783,424,36,36,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037490829,1075,login,200,OK,Thread Group 1-387,text,true,,777,254,36,36,https://restful-booker.herokuapp.com/auth,1075,0,809
+1707037491639,281,CreateBooking,500,Internal Server Error,Thread Group 1-377,text,false,,783,424,36,36,https://restful-booker.herokuapp.com/booking,281,0,0
+1707037490853,1068,login,200,OK,Thread Group 1-388,text,true,,777,254,36,36,https://restful-booker.herokuapp.com/auth,1068,0,800
+1707037491647,277,GetBooking,200,OK,Thread Group 1-366,text,true,,13388,186,36,36,https://restful-booker.herokuapp.com/booking/,277,0,0
+1707037491660,266,CreateBooking,500,Internal Server Error,Thread Group 1-378,text,false,,783,424,35,35,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037491671,289,GetBooking,200,OK,Thread Group 1-368,text,true,,13388,186,35,35,https://restful-booker.herokuapp.com/booking/,289,0,0
+1707037490878,1090,login,200,OK,Thread Group 1-389,text,true,,777,254,34,34,https://restful-booker.herokuapp.com/auth,1089,0,824
+1707037491705,263,CreateBooking,500,Internal Server Error,Thread Group 1-379,text,false,,783,424,34,34,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037491703,267,GetBooking,200,OK,Thread Group 1-367,text,true,,13388,186,34,34,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037491716,274,CreateBooking,500,Internal Server Error,Thread Group 1-380,text,false,,783,424,33,33,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037491711,280,GetBooking,200,OK,Thread Group 1-369,text,true,,13388,186,33,33,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037490903,1098,login,200,OK,Thread Group 1-390,text,true,,777,254,32,32,https://restful-booker.herokuapp.com/auth,1098,0,818
+1707037490928,1073,login,200,OK,Thread Group 1-391,text,true,,777,254,32,32,https://restful-booker.herokuapp.com/auth,1073,0,800
+1707037491733,268,CreateBooking,500,Internal Server Error,Thread Group 1-381,text,false,,783,424,32,32,https://restful-booker.herokuapp.com/booking,268,0,0
+1707037491723,280,GetBooking,200,OK,Thread Group 1-370,text,true,,13388,186,32,32,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037491739,266,GetBooking,200,OK,Thread Group 1-371,text,true,,13388,186,31,31,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037490953,1060,login,200,OK,Thread Group 1-392,text,true,,777,254,30,30,https://restful-booker.herokuapp.com/auth,1060,0,800
+1707037491756,263,CreateBooking,500,Internal Server Error,Thread Group 1-382,text,false,,783,424,30,30,https://restful-booker.herokuapp.com/booking,263,0,0
+1707037490977,1075,login,200,OK,Thread Group 1-393,text,true,,777,254,30,30,https://restful-booker.herokuapp.com/auth,1075,0,807
+1707037491821,274,CreateBooking,500,Internal Server Error,Thread Group 1-383,text,false,,783,424,30,30,https://restful-booker.herokuapp.com/booking,274,0,0
+1707037491821,289,CreateBooking,500,Internal Server Error,Thread Group 1-384,text,false,,783,424,30,30,https://restful-booker.herokuapp.com/booking,289,0,0
+1707037491028,1084,login,200,OK,Thread Group 1-395,text,true,,777,254,30,30,https://restful-booker.herokuapp.com/auth,1084,0,813
+1707037491829,289,GetBooking,200,OK,Thread Group 1-373,text,true,,13407,186,30,30,https://restful-booker.herokuapp.com/booking/,289,0,0
+1707037491003,1116,login,200,OK,Thread Group 1-394,text,true,,777,254,29,29,https://restful-booker.herokuapp.com/auth,1116,0,826
+1707037491856,272,GetBooking,200,OK,Thread Group 1-375,text,true,,13407,186,29,29,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037491053,1077,login,200,OK,Thread Group 1-396,text,true,,777,254,28,28,https://restful-booker.herokuapp.com/auth,1077,0,803
+1707037491865,267,GetBooking,200,OK,Thread Group 1-374,text,true,,13407,186,28,28,https://restful-booker.herokuapp.com/booking/,266,0,0
+1707037491879,273,CreateBooking,500,Internal Server Error,Thread Group 1-386,text,false,,783,424,27,27,https://restful-booker.herokuapp.com/booking,273,0,0
+1707037491083,1071,login,200,OK,Thread Group 1-397,text,true,,777,254,27,27,https://restful-booker.herokuapp.com/auth,1071,0,808
+1707037491871,284,CreateBooking,500,Internal Server Error,Thread Group 1-385,text,false,,783,424,27,27,https://restful-booker.herokuapp.com/booking,284,0,0
+1707037491871,295,GetBooking,200,OK,Thread Group 1-376,text,true,,13426,186,27,27,https://restful-booker.herokuapp.com/booking/,295,0,0
+1707037491892,275,GetBooking,200,OK,Thread Group 1-363,text,true,,13426,186,26,26,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037491904,266,CreateBooking,500,Internal Server Error,Thread Group 1-387,text,false,,783,424,25,25,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037491921,265,GetBooking,200,OK,Thread Group 1-377,text,true,,13426,186,25,25,https://restful-booker.herokuapp.com/booking/,265,0,0
+1707037491921,265,CreateBooking,500,Internal Server Error,Thread Group 1-388,text,false,,783,424,25,25,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037491102,1085,login,200,OK,Thread Group 1-398,text,true,,777,254,24,24,https://restful-booker.herokuapp.com/auth,1085,0,819
+1707037491927,280,GetBooking,200,OK,Thread Group 1-378,text,true,,13426,186,24,24,https://restful-booker.herokuapp.com/booking/,280,0,0
+1707037491128,1099,login,200,OK,Thread Group 1-399,text,true,,777,254,23,23,https://restful-booker.herokuapp.com/auth,1099,0,830
+1707037491968,276,CreateBooking,500,Internal Server Error,Thread Group 1-389,text,false,,783,424,23,23,https://restful-booker.herokuapp.com/booking,276,0,0
+1707037491968,287,GetBooking,200,OK,Thread Group 1-379,text,true,,13407,186,23,23,https://restful-booker.herokuapp.com/booking/,287,0,0
+1707037492001,266,CreateBooking,500,Internal Server Error,Thread Group 1-391,text,false,,783,424,22,22,https://restful-booker.herokuapp.com/booking,266,0,0
+1707037491153,1114,login,200,OK,Thread Group 1-400,text,true,,777,254,22,22,https://restful-booker.herokuapp.com/auth,1114,0,837
+1707037491991,278,GetBooking,200,OK,Thread Group 1-380,text,true,,13407,186,22,22,https://restful-booker.herokuapp.com/booking/,278,0,0
+1707037492001,269,CreateBooking,500,Internal Server Error,Thread Group 1-390,text,false,,783,424,21,21,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037492002,270,GetBooking,200,OK,Thread Group 1-381,text,true,,13407,186,21,21,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037492013,260,CreateBooking,500,Internal Server Error,Thread Group 1-392,text,false,,783,424,20,20,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037492019,261,GetBooking,200,OK,Thread Group 1-382,text,true,,13407,186,20,20,https://restful-booker.herokuapp.com/booking/,261,0,0
+1707037492053,269,CreateBooking,500,Internal Server Error,Thread Group 1-393,text,false,,783,424,19,19,https://restful-booker.herokuapp.com/booking,269,0,0
+1707037492096,262,GetBooking,200,OK,Thread Group 1-383,text,true,,13426,186,19,19,https://restful-booker.herokuapp.com/booking/,262,0,0
+1707037492113,257,CreateBooking,500,Internal Server Error,Thread Group 1-395,text,false,,783,424,18,18,https://restful-booker.herokuapp.com/booking,257,0,0
+1707037492111,261,GetBooking,200,OK,Thread Group 1-384,text,true,,13426,186,18,18,https://restful-booker.herokuapp.com/booking/,261,0,0
+1707037492119,260,CreateBooking,500,Internal Server Error,Thread Group 1-394,text,false,,783,424,17,17,https://restful-booker.herokuapp.com/booking,260,0,0
+1707037492130,262,CreateBooking,500,Internal Server Error,Thread Group 1-396,text,false,,783,424,17,17,https://restful-booker.herokuapp.com/booking,262,0,0
+1707037492153,262,GetBooking,200,OK,Thread Group 1-386,text,true,,13407,186,17,17,https://restful-booker.herokuapp.com/booking/,261,0,0
+1707037492154,261,CreateBooking,500,Internal Server Error,Thread Group 1-397,text,false,,783,424,16,16,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037492155,278,GetBooking,200,OK,Thread Group 1-385,text,true,,13407,186,16,16,https://restful-booker.herokuapp.com/booking/,278,0,0
+1707037492171,272,GetBooking,200,OK,Thread Group 1-387,text,true,,13407,186,15,15,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037492187,257,CreateBooking,500,Internal Server Error,Thread Group 1-398,text,false,,783,424,15,15,https://restful-booker.herokuapp.com/booking,257,0,0
+1707037492186,264,GetBooking,200,OK,Thread Group 1-388,text,true,,13407,186,14,14,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037492227,261,CreateBooking,500,Internal Server Error,Thread Group 1-399,text,false,,783,424,13,13,https://restful-booker.herokuapp.com/booking,261,0,0
+1707037492245,264,GetBooking,200,OK,Thread Group 1-389,text,true,,13407,186,13,13,https://restful-booker.herokuapp.com/booking/,264,0,0
+1707037492267,265,CreateBooking,500,Internal Server Error,Thread Group 1-400,text,false,,783,424,12,12,https://restful-booker.herokuapp.com/booking,265,0,0
+1707037492267,275,GetBooking,200,OK,Thread Group 1-391,text,true,,13407,186,12,12,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037492273,272,GetBooking,200,OK,Thread Group 1-392,text,true,,13407,186,11,11,https://restful-booker.herokuapp.com/booking/,272,0,0
+1707037492270,276,GetBooking,200,OK,Thread Group 1-390,text,true,,13407,186,10,10,https://restful-booker.herokuapp.com/booking/,276,0,0
+1707037492323,267,GetBooking,200,OK,Thread Group 1-393,text,true,,13422,186,9,9,https://restful-booker.herokuapp.com/booking/,267,0,0
+1707037491784,807,GetBooking,200,OK,Thread Group 1-372,text,true,,13388,186,8,8,https://restful-booker.herokuapp.com/booking/,807,0,0
+1707037492370,270,GetBooking,200,OK,Thread Group 1-395,text,true,,13422,186,7,7,https://restful-booker.herokuapp.com/booking/,270,0,0
+1707037492379,268,GetBooking,200,OK,Thread Group 1-394,text,true,,13422,186,6,6,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037492393,268,GetBooking,200,OK,Thread Group 1-396,text,true,,13422,186,5,5,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037492416,275,GetBooking,200,OK,Thread Group 1-397,text,true,,13422,186,4,4,https://restful-booker.herokuapp.com/booking/,275,0,0
+1707037492445,268,GetBooking,200,OK,Thread Group 1-398,text,true,,13422,186,3,3,https://restful-booker.herokuapp.com/booking/,268,0,0
+1707037492488,269,GetBooking,200,OK,Thread Group 1-399,text,true,,13422,186,2,2,https://restful-booker.herokuapp.com/booking/,269,0,0
+1707037492532,273,GetBooking,200,OK,Thread Group 1-400,text,true,,13441,186,1,1,https://restful-booker.herokuapp.com/booking/,273,0,0
